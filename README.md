@@ -4,7 +4,7 @@ A phone-friendly quiz about how the U.S. Congress works, AI safety and security 
 
 Learn through mixed or topic rounds, hints, explanations for every answer, a source-linked field guide, and spaced review. Progress stays in your browser and can be exported to another device.
 
-[Source and issues](https://github.com/shaanakshaikh/hillwise-ai-congress) · [Download the source](https://github.com/shaanakshaikh/hillwise-ai-congress/archive/refs/heads/main.zip) · [Credits and reuse](ATTRIBUTION.md)
+[Play Hillwise](https://hillwise-ai-congress.vercel.app/) · [Download questions](https://hillwise-ai-congress.vercel.app/data/questions.json) · [Source and issues](https://github.com/shaanakshaikh/hillwise-ai-congress) · [Download the source](https://github.com/shaanakshaikh/hillwise-ai-congress/archive/refs/heads/main.zip) · [Credits and reuse](ATTRIBUTION.md)
 
 ## Run locally
 
@@ -20,7 +20,7 @@ Open <http://localhost:8000>. Use an HTTP server because the app fetches its que
 
 ## Make your own quiz
 
-1. Fork this repository and clone your fork.
+1. Choose **Use this template → Create a new repository** for an independent quiz, or **Fork** if you want to contribute improvements back. Clone your new repository.
 2. Edit `dist/quiz-config.js` for your title, descriptions, topics, glossary, data paths, source links, and browser-storage identity.
 3. Replace or extend the question JSON files under `dist/data/`. Use the schema and editorial checklist in [CONTRIBUTING.md](CONTRIBUTING.md), and see `examples/` for a small starting point. Set the configured question-file paths to the files you want to load.
 4. Replace the field-guide profiles and portraits, or set `profilesFile` and `portraitsFile` to `null` if your subject does not need people. Credit the sources and assets you use in `ATTRIBUTION.md`.
