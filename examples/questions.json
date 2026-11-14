@@ -1,0 +1,72 @@
+[
+  {
+    "id": "example-01",
+    "category": "process",
+    "difficulty": 1,
+    "prompt": "The House passes an AI bill, but the Senate has not considered it. Which description is accurate?",
+    "options": [
+      {
+        "text": "The bill has passed one chamber and has not become law.",
+        "explanation": "House passage is one legislative milestone. Enactment still requires the remaining constitutional steps."
+      },
+      {
+        "text": "The bill automatically takes effect after thirty days.",
+        "explanation": "There is no general rule that turns a House-passed bill into law after thirty days."
+      },
+      {
+        "text": "The President can sign the House version immediately.",
+        "explanation": "Both chambers must agree to the same legislative text before it is presented to the President."
+      },
+      {
+        "text": "The Senate must accept the House text without changes.",
+        "explanation": "The Senate can amend legislation. Differences between the chambers must then be resolved."
+      }
+    ],
+    "correct": 0,
+    "hint": "Ask whether both chambers have agreed to the same text.",
+    "takeaway": "A chamber's passage of a bill is distinct from enactment of a law.",
+    "sources": [
+      {
+        "title": "CRS: Introduction to the Legislative Process",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42843/R42843.21.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": ["example", "bill-status"]
+  },
+  {
+    "id": "example-02",
+    "category": "power",
+    "difficulty": 1,
+    "prompt": "After an AI law takes effect, a committee questions agency officials about its implementation. What function is the committee performing?",
+    "options": [
+      {
+        "text": "Judicial review of a constitutional challenge.",
+        "explanation": "Courts resolve constitutional cases; a committee hearing is not a court judgment."
+      },
+      {
+        "text": "Congressional oversight of the executive branch.",
+        "explanation": "Committees can examine how agencies carry out laws and use hearings to obtain information."
+      },
+      {
+        "text": "Automatic repeal of the implementation rules.",
+        "explanation": "Questioning officials at a hearing does not itself repeal a law or agency rule."
+      },
+      {
+        "text": "Direct management of the agency's daily operations.",
+        "explanation": "Oversight examines agency work; it does not transfer the agency's daily management to the committee."
+      }
+    ],
+    "correct": 1,
+    "hint": "Congress continues to examine agency activity after legislation is enacted.",
+    "takeaway": "Oversight is a continuing congressional function, including after a law takes effect.",
+    "sources": [
+      {
+        "title": "Senate: Committee hearings and oversight",
+        "url": "https://www.senate.gov/committees/committees_faq.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": ["example", "oversight"]
+  }
+]

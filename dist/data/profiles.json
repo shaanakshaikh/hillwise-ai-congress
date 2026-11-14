@@ -1,0 +1,503 @@
+[
+  {
+    "id": "O000019",
+    "name": "Jay Obernolte",
+    "party": "R",
+    "state": "CA",
+    "chamber": "House",
+    "focus": "Bipartisan AI policy and research access",
+    "record": [
+      {
+        "date": "2024-12-17",
+        "text": "Chaired the bipartisan House AI Task Force.",
+        "url": "https://obernolte.house.gov/AITFReport"
+      },
+      {
+        "date": "2025-03-31",
+        "text": "Co-led the 2025 CREATE AI proposal with Don Beyer.",
+        "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6456"
+      }
+    ],
+    "sources": [
+      {
+        "title": "House AI Task Force final report and membership",
+        "url": "https://obernolte.house.gov/AITFReport"
+      },
+      {
+        "title": "Obernolte and Beyer introduce CREATE AI Act, March 31, 2025",
+        "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6456"
+      }
+    ]
+  },
+  {
+    "id": "L000582",
+    "name": "Ted Lieu",
+    "party": "D",
+    "state": "CA",
+    "chamber": "House",
+    "focus": "AI governance and human control",
+    "record": [
+      {
+        "date": "2024-12-17",
+        "text": "Co-chaired the bipartisan House AI Task Force.",
+        "url": "https://obernolte.house.gov/AITFReport"
+      },
+      {
+        "date": "2023-04-26",
+        "text": "Joined the nuclear-launch human-control legislative effort.",
+        "url": "https://www.markey.senate.gov/news/press-releases/markey-lieu-beyer-and-buck-introduce-bipartisan-legislation-to-prevent-ai-from-launching-a-nuclear-weapon"
+      }
+    ],
+    "sources": [
+      {
+        "title": "House AI Task Force final report and membership",
+        "url": "https://obernolte.house.gov/AITFReport"
+      },
+      {
+        "title": "Markey, Lieu, Beyer and Buck introduce nuclear-launch safeguards, April 26, 2023",
+        "url": "https://www.markey.senate.gov/news/press-releases/markey-lieu-beyer-and-buck-introduce-bipartisan-legislation-to-prevent-ai-from-launching-a-nuclear-weapon"
+      }
+    ]
+  },
+  {
+    "id": "Y000064",
+    "name": "Todd Young",
+    "party": "R",
+    "state": "IN",
+    "chamber": "Senate",
+    "focus": "Standards, research and bipartisan agenda setting",
+    "record": [
+      {
+        "date": "2024-05-15",
+        "text": "Joined the four-senator AI roadmap group.",
+        "url": "https://www.young.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-young-schumer-rounds-heinrich-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate/"
+      },
+      {
+        "date": "2024-07-31",
+        "text": "Co-led the Future of AI Innovation effort.",
+        "url": "https://www.commerce.senate.gov/press/dem/release/commerce-committee-passes-bipartisan-bill-to-ensure-u-s-leads-global-ai-innovation/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Young, Schumer, Rounds and Heinrich release Senate AI roadmap, May 15, 2024",
+        "url": "https://www.young.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-young-schumer-rounds-heinrich-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate/"
+      },
+      {
+        "title": "Senate Commerce account of Future of AI Innovation Act, July 31, 2024",
+        "url": "https://www.commerce.senate.gov/press/dem/release/commerce-committee-passes-bipartisan-bill-to-ensure-u-s-leads-global-ai-innovation/"
+      }
+    ]
+  },
+  {
+    "id": "G000386",
+    "name": "Chuck Grassley",
+    "party": "R",
+    "state": "IA",
+    "chamber": "Senate",
+    "focus": "AI whistleblower protections",
+    "record": [
+      {
+        "date": "2025-05-15",
+        "text": "Introduced S. 1792 to protect covered AI whistleblowers.",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119s1792is"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S. 1792 introduced version, 119th Congress",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119s1792is"
+      }
+    ]
+  },
+  {
+    "id": "B001277",
+    "name": "Richard Blumenthal",
+    "party": "D",
+    "state": "CT",
+    "chamber": "Senate",
+    "focus": "Licensing, accountability and consumer protection",
+    "record": [
+      {
+        "date": "2023-09-08",
+        "text": "Announced an AI oversight and licensing framework with Josh Hawley.",
+        "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-hawley-announce-bipartisan-framework-on-artificial-intelligence-legislation"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blumenthal and Hawley announce AI legislative framework, September 8, 2023",
+        "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-hawley-announce-bipartisan-framework-on-artificial-intelligence-legislation"
+      }
+    ]
+  },
+  {
+    "id": "H001089",
+    "name": "Josh Hawley",
+    "party": "R",
+    "state": "MO",
+    "chamber": "Senate",
+    "focus": "Oversight and whistleblower protections",
+    "record": [
+      {
+        "date": "2023-09-08",
+        "text": "Co-developed the Blumenthal–Hawley AI framework.",
+        "url": "https://www.blumenthal.senate.gov/imo/media/doc/09072023bipartisanaiframework.pdf"
+      },
+      {
+        "date": "2025-05-15",
+        "text": "Was an original cosponsor of the AI Whistleblower Protection Act.",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119s1792is"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blumenthal–Hawley framework text, September 2023",
+        "url": "https://www.blumenthal.senate.gov/imo/media/doc/09072023bipartisanaiframework.pdf"
+      },
+      {
+        "title": "S. 1792 introduced version, 119th Congress",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119s1792is"
+      }
+    ]
+  },
+  {
+    "id": "C000127",
+    "name": "Maria Cantwell",
+    "party": "D",
+    "state": "WA",
+    "chamber": "Senate",
+    "focus": "Federal-state policy and evaluation capacity",
+    "record": [
+      {
+        "date": "2025-07-01",
+        "text": "Worked with Blackburn to remove the state-law moratorium.",
+        "url": "https://www.commerce.senate.gov/press/dem/release/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote-2025-7/"
+      },
+      {
+        "date": "2024-07-31",
+        "text": "Co-led the Future of AI Innovation proposal.",
+        "url": "https://www.commerce.senate.gov/press/dem/release/commerce-committee-passes-bipartisan-bill-to-ensure-u-s-leads-global-ai-innovation/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Senate Commerce account of AI moratorium removal, July 1, 2025",
+        "url": "https://www.commerce.senate.gov/press/dem/release/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote-2025-7/"
+      },
+      {
+        "title": "Senate Commerce account of Future of AI Innovation Act, July 31, 2024",
+        "url": "https://www.commerce.senate.gov/press/dem/release/commerce-committee-passes-bipartisan-bill-to-ensure-u-s-leads-global-ai-innovation/"
+      }
+    ]
+  },
+  {
+    "id": "B001243",
+    "name": "Marsha Blackburn",
+    "party": "R",
+    "state": "TN",
+    "chamber": "Senate",
+    "focus": "State protections and AI accountability",
+    "record": [
+      {
+        "date": "2025-07-01",
+        "text": "Opposed blocking state protections before federal safeguards were enacted.",
+        "url": "https://www.blackburn.senate.gov/2025/7/technology/video-blackburn-leads-effort-to-remove-ai-moratorium-from-big-beautiful-bill-protecting-tennessee-creators-kids-from-harm"
+      },
+      {
+        "date": "2025-05-15",
+        "text": "Was an original AI Whistleblower Protection Act cosponsor.",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119s1792is"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blackburn statement on removing the AI moratorium, July 1, 2025",
+        "url": "https://www.blackburn.senate.gov/2025/7/technology/video-blackburn-leads-effort-to-remove-ai-moratorium-from-big-beautiful-bill-protecting-tennessee-creators-kids-from-harm"
+      },
+      {
+        "title": "S. 1792 introduced version, 119th Congress",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119s1792is"
+      }
+    ]
+  },
+  {
+    "id": "C001098",
+    "name": "Ted Cruz",
+    "party": "R",
+    "state": "TX",
+    "chamber": "Senate",
+    "focus": "Nonconsensual intimate imagery legislation",
+    "record": [
+      {
+        "date": "2025-05-19",
+        "text": "Led TAKE IT DOWN with Amy Klobuchar through enactment.",
+        "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-s-bipartisan-take-it-down-act-signed-into-law"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Klobuchar and Cruz announce TAKE IT DOWN enactment, May 19, 2025",
+        "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-s-bipartisan-take-it-down-act-signed-into-law"
+      }
+    ]
+  },
+  {
+    "id": "K000367",
+    "name": "Amy Klobuchar",
+    "party": "D",
+    "state": "MN",
+    "chamber": "Senate",
+    "focus": "AI accountability and targeted harms",
+    "record": [
+      {
+        "date": "2025-05-19",
+        "text": "Co-led TAKE IT DOWN with Ted Cruz.",
+        "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-s-bipartisan-take-it-down-act-signed-into-law"
+      },
+      {
+        "date": "2023-11-15",
+        "text": "Co-led an AI accountability proposal with John Thune.",
+        "url": "https://www.thune.senate.gov/news/press-releases/thune-klobuchar-lead-commerce-committee-colleagues-in-introducing-bipartisan-ai-bill-to-boost-innovation-and-strengthen-accountability/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Klobuchar and Cruz announce TAKE IT DOWN enactment, May 19, 2025",
+        "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-s-bipartisan-take-it-down-act-signed-into-law"
+      },
+      {
+        "title": "Thune and Klobuchar introduce AI accountability bill, November 15, 2023",
+        "url": "https://www.thune.senate.gov/news/press-releases/thune-klobuchar-lead-commerce-committee-colleagues-in-introducing-bipartisan-ai-bill-to-boost-innovation-and-strengthen-accountability/"
+      }
+    ]
+  },
+  {
+    "id": "M001224",
+    "name": "Nathaniel Moran",
+    "party": "R",
+    "state": "TX",
+    "chamber": "House",
+    "focus": "AI incident reporting",
+    "record": [
+      {
+        "date": "2026-06-25",
+        "text": "Introduced H.R. 9477, the AI Incident Reporting Act.",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr9477ih"
+      },
+      {
+        "date": "2026-08-31",
+        "text": "Joined the original coalition for Defense AI reporting.",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr10189ih"
+      }
+    ],
+    "sources": [
+      {
+        "title": "H.R. 9477 introduced version, June 25, 2026",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr9477ih"
+      },
+      {
+        "title": "H.R. 10189 introduced version, August 31, 2026",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr10189ih"
+      }
+    ]
+  },
+  {
+    "id": "W000805",
+    "name": "Mark Warner",
+    "party": "D",
+    "state": "VA",
+    "chamber": "Senate",
+    "focus": "AI model security and development safeguards",
+    "record": [
+      {
+        "date": "2026-07-21",
+        "text": "Introduced S. 5061, the Secure A.I. Development Act.",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5061is/html/BILLS-119s5061is.htm"
+      }
+    ],
+    "sources": [
+      {
+        "title": "S. 5061 introduced text, July 21, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5061is/html/BILLS-119s5061is.htm"
+      }
+    ]
+  },
+  {
+    "id": "J000305",
+    "name": "Sara Jacobs",
+    "party": "D",
+    "state": "CA",
+    "chamber": "House",
+    "focus": "Defense AI reliability and accountability",
+    "record": [
+      {
+        "date": "2026-08-31",
+        "text": "Introduced the Defense AI Reliability and Reporting Act with Moran and Whitesides.",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr10189ih"
+      }
+    ],
+    "sources": [
+      {
+        "title": "H.R. 10189 introduced version, August 31, 2026",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr10189ih"
+      }
+    ]
+  },
+  {
+    "id": "M000133",
+    "name": "Edward Markey",
+    "party": "D",
+    "state": "MA",
+    "chamber": "Senate",
+    "focus": "Human control of nuclear weapons",
+    "record": [
+      {
+        "date": "2023-04-26",
+        "text": "Joined Lieu, Beyer and Buck to propose nuclear-launch safeguards.",
+        "url": "https://www.markey.senate.gov/news/press-releases/markey-lieu-beyer-and-buck-introduce-bipartisan-legislation-to-prevent-ai-from-launching-a-nuclear-weapon"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Markey, Lieu, Beyer and Buck introduce nuclear-launch safeguards, April 26, 2023",
+        "url": "https://www.markey.senate.gov/news/press-releases/markey-lieu-beyer-and-buck-introduce-bipartisan-legislation-to-prevent-ai-from-launching-a-nuclear-weapon"
+      }
+    ]
+  },
+  {
+    "id": "S000033",
+    "name": "Bernie Sanders",
+    "party": "I",
+    "state": "VT",
+    "chamber": "Senate",
+    "focus": "AI data-center restrictions",
+    "record": [
+      {
+        "date": "2026-03-25",
+        "text": "Announced an AI data-center moratorium proposal with Ocasio-Cortez.",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sanders and Ocasio-Cortez announce AI Data Center Moratorium Act, March 25, 2026",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/"
+      }
+    ]
+  },
+  {
+    "id": "O000172",
+    "name": "Alexandria Ocasio-Cortez",
+    "party": "D",
+    "state": "NY",
+    "chamber": "House",
+    "focus": "AI data-center restrictions",
+    "record": [
+      {
+        "date": "2026-03-25",
+        "text": "Announced an AI data-center moratorium proposal with Sanders.",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sanders and Ocasio-Cortez announce AI Data Center Moratorium Act, March 25, 2026",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/"
+      }
+    ]
+  },
+  {
+    "id": "M001194",
+    "name": "John Moolenaar",
+    "party": "R",
+    "state": "MI",
+    "chamber": "House",
+    "focus": "AI competition and chip export controls",
+    "record": [
+      {
+        "date": "2025-01-30",
+        "text": "Joined Krishnamoorthi in urging a tighter chip-control review concerning DeepSeek.",
+        "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-call-for-tightening-export-controls-on-chips-critical-to-china-s-ai-platform-deepseek-and-other-measures-to-address-its-risks-to-americans-data-and-security"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moolenaar and Krishnamoorthi call for tighter chip controls, January 30, 2025",
+        "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-call-for-tightening-export-controls-on-chips-critical-to-china-s-ai-platform-deepseek-and-other-measures-to-address-its-risks-to-americans-data-and-security"
+      }
+    ]
+  },
+  {
+    "id": "K000391",
+    "name": "Raja Krishnamoorthi",
+    "party": "D",
+    "state": "IL",
+    "chamber": "House",
+    "focus": "AI competition and chip export controls",
+    "record": [
+      {
+        "date": "2025-01-30",
+        "text": "Joined Moolenaar in seeking tighter chip controls and anti-diversion measures.",
+        "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-call-for-tightening-export-controls-on-chips-critical-to-china-s-ai-platform-deepseek-and-other-measures-to-address-its-risks-to-americans-data-and-security"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Moolenaar and Krishnamoorthi call for tighter chip controls, January 30, 2025",
+        "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-call-for-tightening-export-controls-on-chips-critical-to-china-s-ai-platform-deepseek-and-other-measures-to-address-its-risks-to-americans-data-and-security"
+      }
+    ]
+  },
+  {
+    "id": "T000250",
+    "name": "John Thune",
+    "party": "R",
+    "state": "SD",
+    "chamber": "Senate",
+    "focus": "AI accountability and innovation",
+    "record": [
+      {
+        "date": "2023-11-15",
+        "text": "Led introduction of the AI Research, Innovation, and Accountability Act with Klobuchar.",
+        "url": "https://www.thune.senate.gov/news/press-releases/thune-klobuchar-lead-commerce-committee-colleagues-in-introducing-bipartisan-ai-bill-to-boost-innovation-and-strengthen-accountability/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Thune and Klobuchar introduce AI accountability bill, November 15, 2023",
+        "url": "https://www.thune.senate.gov/news/press-releases/thune-klobuchar-lead-commerce-committee-colleagues-in-introducing-bipartisan-ai-bill-to-boost-innovation-and-strengthen-accountability/"
+      }
+    ]
+  },
+  {
+    "id": "B001292",
+    "name": "Don Beyer",
+    "party": "D",
+    "state": "VA",
+    "chamber": "House",
+    "focus": "AI research access and human control",
+    "record": [
+      {
+        "date": "2025-03-31",
+        "text": "Co-led the 2025 CREATE AI proposal with Obernolte.",
+        "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6456"
+      },
+      {
+        "date": "2023-04-26",
+        "text": "Joined the nuclear-launch human-control legislative effort.",
+        "url": "https://www.markey.senate.gov/news/press-releases/markey-lieu-beyer-and-buck-introduce-bipartisan-legislation-to-prevent-ai-from-launching-a-nuclear-weapon"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Obernolte and Beyer introduce CREATE AI Act, March 31, 2025",
+        "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6456"
+      },
+      {
+        "title": "Markey, Lieu, Beyer and Buck introduce nuclear-launch safeguards, April 26, 2023",
+        "url": "https://www.markey.senate.gov/news/press-releases/markey-lieu-beyer-and-buck-introduce-bipartisan-legislation-to-prevent-ai-from-launching-a-nuclear-weapon"
+      }
+    ]
+  }
+]

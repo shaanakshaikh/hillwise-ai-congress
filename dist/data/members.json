@@ -1,0 +1,789 @@
+[
+  {
+    "id": "m01",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Who jointly led the bipartisan House AI Task Force that delivered its report in December 2024?",
+    "options": [
+      {
+        "text": "Jay Obernolte and Ted Lieu",
+        "explanation": "Obernolte chaired the task force, with Lieu as co-chair."
+      },
+      {
+        "text": "Mike Johnson and Hakeem Jeffries",
+        "explanation": "The party leaders established the task force and appointed members; they were not its working chairs."
+      },
+      {
+        "text": "John Thune and Amy Klobuchar",
+        "explanation": "These are senators, not the House task force leaders."
+      },
+      {
+        "text": "Maria Cantwell and Todd Young",
+        "explanation": "This Senate pair worked on AI legislation, not leadership of the House task force."
+      }
+    ],
+    "correct": 0,
+    "hint": "Distinguish the leaders who appointed a group from the members who ran it.",
+    "takeaway": "Task forces can develop bipartisan proposals while committees retain their legislative roles.",
+    "sources": [
+      {
+        "title": "House AI Task Force final report and membership",
+        "url": "https://obernolte.house.gov/AITFReport"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "House",
+      "task force",
+      "Obernolte",
+      "Lieu"
+    ]
+  },
+  {
+    "id": "m02",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Which four senators comprised the bipartisan working group that released the May 2024 AI policy roadmap?",
+    "options": [
+      {
+        "text": "Cruz, Klobuchar, Hawley and Blumenthal",
+        "explanation": "These names appear in other AI coalitions, not this four-member working group."
+      },
+      {
+        "text": "Cantwell, Wicker, Collins and Warner",
+        "explanation": "This is not the membership identified on the roadmap."
+      },
+      {
+        "text": "Schumer, Rounds, Heinrich and Young",
+        "explanation": "The roadmap identifies these four senators as the working group."
+      },
+      {
+        "text": "Grassley, Coons, Blackburn and Schatz",
+        "explanation": "These senators joined the 2025 whistleblower effort, not the roadmap group."
+      }
+    ],
+    "correct": 2,
+    "hint": "The group paired two Democrats with two Republicans and included the then-majority leader.",
+    "takeaway": "Congress has overlapping AI coalitions; learning one roster does not identify every initiative.",
+    "sources": [
+      {
+        "title": "Bipartisan Senate AI Working Group roadmap summary",
+        "url": "https://www.schumer.senate.gov/imo/media/doc/LD%20One_Pager_Roadmap_DRAFT_Clean_MK_YD_lD.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Senate",
+      "roadmap",
+      "coalitions"
+    ]
+  },
+  {
+    "id": "m03",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "After Schumer, Rounds, Heinrich and Young released their May 2024 AI roadmap, which description best captured its status?",
+    "options": [
+      {
+        "text": "It enacted a comprehensive AI regulatory code.",
+        "explanation": "A working-group roadmap does not enact statutory duties."
+      },
+      {
+        "text": "It offered priorities for committees to develop into legislation.",
+        "explanation": "The senators described the roadmap as guidance for further committee and legislative work."
+      },
+      {
+        "text": "It replaced committee hearings with a permanent AI regulator.",
+        "explanation": "The roadmap did not create a regulator or displace congressional committees."
+      },
+      {
+        "text": "It bound every senator to support a single final bill.",
+        "explanation": "Publication did not commit the entire Senate to a bill or vote."
+      }
+    ],
+    "correct": 1,
+    "hint": "Consider the difference between a group’s recommendations and legislation passed by Congress.",
+    "takeaway": "A bipartisan roadmap is evidence of shared priorities, not an enacted policy settlement.",
+    "sources": [
+      {
+        "title": "Young, Schumer, Rounds and Heinrich release Senate AI roadmap, May 15, 2024",
+        "url": "https://www.young.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-young-schumer-rounds-heinrich-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Senate",
+      "roadmap",
+      "evidence"
+    ]
+  },
+  {
+    "id": "m04",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Which senator introduced S. 1792, the AI Whistleblower Protection Act, on May 15, 2025?",
+    "options": [
+      {
+        "text": "Mark Warner",
+        "explanation": "Warner is associated with a separate AI security legislative effort; the sponsor here was Grassley."
+      },
+      {
+        "text": "Bernie Sanders",
+        "explanation": "Sanders was not the introducing sponsor identified for S. 1792."
+      },
+      {
+        "text": "Ted Cruz",
+        "explanation": "Cruz was not the introducing sponsor identified for S. 1792."
+      },
+      {
+        "text": "Chuck Grassley",
+        "explanation": "Grassley introduced the bill to protect covered AI disclosures and provide remedies for retaliation."
+      }
+    ],
+    "correct": 3,
+    "hint": "This Iowa Republican has a longstanding focus on whistleblower protections.",
+    "takeaway": "Whistleblower legislation is one way Congress can improve access to evidence about AI risks.",
+    "sources": [
+      {
+        "title": "Grassley introduces AI Whistleblower Protection Act, May 15, 2025",
+        "url": "https://www.grassley.senate.gov/news/news-releases/grassley-introduces-ai-whistleblower-protection-act"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Grassley",
+      "whistleblowers"
+    ]
+  },
+  {
+    "id": "m05",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "S. 1792’s original coalition included Grassley, Coons, Blackburn, Klobuchar, Hawley and Schatz. What does that record establish?",
+    "options": [
+      {
+        "text": "They supported introducing this specific whistleblower proposal.",
+        "explanation": "Original sponsorship supports that precise conclusion about this measure."
+      },
+      {
+        "text": "They agreed on every form of frontier-model regulation.",
+        "explanation": "A shared bill does not demonstrate agreement across all AI policy issues."
+      },
+      {
+        "text": "Their parties formally endorsed all provisions of the proposal.",
+        "explanation": "Individual sponsorship does not establish a party-wide position."
+      },
+      {
+        "text": "They had already voted together to enact the proposal.",
+        "explanation": "Introduction and original sponsorship do not constitute an enactment vote."
+      }
+    ],
+    "correct": 0,
+    "hint": "Keep the inference at the same level of specificity as the evidence.",
+    "takeaway": "Map coalitions issue by issue; sponsorship is evidence of support for a particular proposal.",
+    "sources": [
+      {
+        "title": "S. 1792 introduced version, 119th Congress",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119s1792is"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "whistleblowers",
+      "coalitions",
+      "evidence"
+    ]
+  },
+  {
+    "id": "m06",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Which bipartisan pair proposed an independent AI oversight body and a licensing regime in September 2023?",
+    "options": [
+      {
+        "text": "John Thune and Amy Klobuchar",
+        "explanation": "This pair led a different AI accountability proposal."
+      },
+      {
+        "text": "Richard Blumenthal and Josh Hawley",
+        "explanation": "Their framework proposed licensing and independent oversight for specified AI models and uses."
+      },
+      {
+        "text": "Maria Cantwell and Todd Young",
+        "explanation": "Their work included a different approach centered on standards and research infrastructure."
+      },
+      {
+        "text": "Chuck Schumer and Mike Rounds",
+        "explanation": "They participated in the broader Senate roadmap effort, not this two-senator framework."
+      }
+    ],
+    "correct": 1,
+    "hint": "The pair led the Judiciary subcommittee concerned with privacy, technology and law at the time.",
+    "takeaway": "Some bipartisan AI proposals have sought substantial oversight powers, including licensing.",
+    "sources": [
+      {
+        "title": "Blumenthal and Hawley announce AI legislative framework, September 8, 2023",
+        "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-hawley-announce-bipartisan-framework-on-artificial-intelligence-legislation"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Blumenthal",
+      "Hawley",
+      "licensing"
+    ]
+  },
+  {
+    "id": "m07",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "A briefing says the September 2023 Blumenthal–Hawley framework created a federal AI licensing agency. What is the most accurate correction?",
+    "options": [
+      {
+        "text": "It created the agency only for models used by Congress.",
+        "explanation": "The framework did not itself create an agency for any class of models."
+      },
+      {
+        "text": "It gave that agency authority only over open-weight models.",
+        "explanation": "That both assumes enactment and misstates the proposed scope."
+      },
+      {
+        "text": "It proposed an oversight and licensing approach; the framework itself was not law.",
+        "explanation": "The document set out a legislative blueprint, rather than an enacted agency charter."
+      },
+      {
+        "text": "It was an executive order issued by the two senators.",
+        "explanation": "Senators do not issue presidential executive orders."
+      }
+    ],
+    "correct": 2,
+    "hint": "Look at the type of document, not just its policy ambition.",
+    "takeaway": "A member’s proposal establishes an advocated position, not an existing legal obligation.",
+    "sources": [
+      {
+        "title": "Blumenthal–Hawley framework text, September 2023",
+        "url": "https://www.blumenthal.senate.gov/imo/media/doc/09072023bipartisanaiframework.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Blumenthal",
+      "Hawley",
+      "evidence",
+      "licensing"
+    ]
+  },
+  {
+    "id": "m08",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "In July 2025, Cantwell and Blackburn supported the amendment stripping a state-AI-law moratorium. What conclusion is warranted?",
+    "options": [
+      {
+        "text": "They opposed every federal AI law.",
+        "explanation": "Opposing that moratorium does not imply opposition to all federal legislation."
+      },
+      {
+        "text": "They opposed all future forms of federal preemption.",
+        "explanation": "The vote concerned a specific provision and cannot establish that universal position."
+      },
+      {
+        "text": "They supported every existing state AI requirement.",
+        "explanation": "Removing a blanket moratorium does not endorse every state law."
+      },
+      {
+        "text": "They supported removing that moratorium from the reconciliation bill.",
+        "explanation": "This is the specific position established by their amendment effort."
+      }
+    ],
+    "correct": 3,
+    "hint": "Identify the policy and legislative vehicle actually at issue.",
+    "takeaway": "A vote against one preemption proposal is not a timeless position on every federal-state arrangement.",
+    "sources": [
+      {
+        "title": "Senate Commerce account of AI moratorium removal, July 1, 2025",
+        "url": "https://www.commerce.senate.gov/press/dem/release/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote-2025-7/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Cantwell",
+      "Blackburn",
+      "preemption",
+      "evidence"
+    ]
+  },
+  {
+    "id": "m09",
+    "category": "people",
+    "difficulty": 3,
+    "prompt": "Why is “Blackburn opposed all federal preemption” an inaccurate summary of her July 1, 2025 statement on the AI moratorium?",
+    "options": [
+      {
+        "text": "She opposed blocking states before federal protections while discussing federally preemptive legislation.",
+        "explanation": "Her statement distinguished the rejected moratorium from federal protections Congress might enact."
+      },
+      {
+        "text": "She said states should never regulate technology.",
+        "explanation": "Her statement defended states’ ability to protect people while federal protections were absent."
+      },
+      {
+        "text": "She denied that the reconciliation bill contained an AI provision.",
+        "explanation": "She explicitly discussed removing the AI moratorium provision."
+      },
+      {
+        "text": "She said Congress had already enacted a complete AI regulatory framework.",
+        "explanation": "Her statement called for federal protections rather than claiming a complete framework existed."
+      }
+    ],
+    "correct": 0,
+    "hint": "Pay attention to the timing and conditions in a member’s statement.",
+    "takeaway": "Positions often concern sequencing and safeguards, not a simple yes-or-no stance on preemption.",
+    "sources": [
+      {
+        "title": "Blackburn statement on removing the AI moratorium, July 1, 2025",
+        "url": "https://www.blackburn.senate.gov/2025/7/technology/video-blackburn-leads-effort-to-remove-ai-moratorium-from-big-beautiful-bill-protecting-tennessee-creators-kids-from-harm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Blackburn",
+      "preemption",
+      "positions"
+    ]
+  },
+  {
+    "id": "m10",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Which Senate pair led the TAKE IT DOWN Act that became law in May 2025?",
+    "options": [
+      {
+        "text": "Josh Hawley and Richard Blumenthal",
+        "explanation": "They collaborated on other AI issues, but are not the lead pair identified here."
+      },
+      {
+        "text": "Mike Rounds and Martin Heinrich",
+        "explanation": "They worked together on broader AI initiatives, not as this bill’s lead pair."
+      },
+      {
+        "text": "Ted Cruz and Amy Klobuchar",
+        "explanation": "Cruz and Klobuchar led the bipartisan effort addressing nonconsensual intimate imagery, including qualifying deepfakes."
+      },
+      {
+        "text": "Chuck Grassley and Chris Coons",
+        "explanation": "They joined the AI whistleblower coalition, not as the lead pair for TAKE IT DOWN."
+      }
+    ],
+    "correct": 2,
+    "hint": "This coalition paired a Texas Republican with a Minnesota Democrat.",
+    "takeaway": "A member’s AI record may include targeted harms legislation alongside other, distinct policy positions.",
+    "sources": [
+      {
+        "title": "Klobuchar and Cruz announce TAKE IT DOWN enactment, May 19, 2025",
+        "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-s-bipartisan-take-it-down-act-signed-into-law"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Cruz",
+      "Klobuchar",
+      "deepfakes"
+    ]
+  },
+  {
+    "id": "m11",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "You are coding Ted Cruz’s AI policy record using his role in TAKE IT DOWN. Which entry is best supported?",
+    "options": [
+      {
+        "text": "Supports every proposal to regulate foundation-model development.",
+        "explanation": "A targeted imagery law does not establish support for every development requirement."
+      },
+      {
+        "text": "Led legislation addressing nonconsensual intimate imagery, including AI-generated imagery.",
+        "explanation": "That accurately describes the specific legislative effort documented by the committee."
+      },
+      {
+        "text": "Opposes any federal obligation on online platforms.",
+        "explanation": "The measure included platform responsibilities, so this categorical claim conflicts with the record."
+      },
+      {
+        "text": "Supports federal licensing for all AI developers.",
+        "explanation": "The cited effort does not establish that distinct position."
+      }
+    ],
+    "correct": 1,
+    "hint": "Record the subject and mechanism of the measure rather than assigning a broad ideology.",
+    "takeaway": "Targeted AI-related regulation and general frontier-model oversight are different policy dimensions.",
+    "sources": [
+      {
+        "title": "Senate Commerce account of House passage of TAKE IT DOWN, April 2025",
+        "url": "https://www.commerce.senate.gov/press/rep/release/take-it-down-act-passes-the-house-heads-to-president-trump-s-desk-2025-4/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Cruz",
+      "deepfakes",
+      "evidence"
+    ]
+  },
+  {
+    "id": "m12",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Who introduced H.R. 9477, the AI Incident Reporting Act, on June 25, 2026?",
+    "options": [
+      {
+        "text": "Jay Obernolte",
+        "explanation": "The official introduced version identifies Moran, not Obernolte, as sponsor."
+      },
+      {
+        "text": "Don Beyer",
+        "explanation": "The official introduced version identifies Moran, not Beyer, as sponsor."
+      },
+      {
+        "text": "Sara Jacobs",
+        "explanation": "Jacobs introduced a separate Defense AI Reliability and Reporting bill."
+      },
+      {
+        "text": "Nathaniel Moran",
+        "explanation": "Moran introduced this proposal for specified model developers to report to the Secretary of Commerce."
+      }
+    ],
+    "correct": 3,
+    "hint": "The sponsor is a Republican House member from Texas; the reporting recipient is Commerce.",
+    "takeaway": "Track the introducing sponsor separately from later cosponsors and related bills.",
+    "sources": [
+      {
+        "title": "H.R. 9477 introduced version, June 25, 2026",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr9477ih"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Moran",
+      "incident reporting"
+    ]
+  },
+  {
+    "id": "m13",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Which senator introduced S. 5061, the Secure A.I. Development Act of 2026, on July 21, 2026?",
+    "options": [
+      {
+        "text": "Mark Warner",
+        "explanation": "The introduced text identifies Warner as sponsor of this AI security and safety proposal."
+      },
+      {
+        "text": "John Thune",
+        "explanation": "The introduced text identifies Warner, not Thune, as sponsor."
+      },
+      {
+        "text": "Todd Young",
+        "explanation": "The introduced text identifies Warner, not Young, as sponsor."
+      },
+      {
+        "text": "Josh Hawley",
+        "explanation": "The introduced text identifies Warner, not Hawley, as sponsor."
+      }
+    ],
+    "correct": 0,
+    "hint": "Think of the Virginia senator closely associated with intelligence and technology issues.",
+    "takeaway": "Similar AI bill names can hide different sponsors, mechanisms and institutional approaches.",
+    "sources": [
+      {
+        "title": "S. 5061 introduced text, July 21, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5061is/html/BILLS-119s5061is.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Warner",
+      "model security"
+    ]
+  },
+  {
+    "id": "m14",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "Which account matches the introduced version of H.R. 10189, the Defense AI Reliability and Reporting Act, dated August 31, 2026?",
+    "options": [
+      {
+        "text": "Moran introduced it with Cruz and Klobuchar as House cosponsors.",
+        "explanation": "Cruz and Klobuchar are senators; the House bill identifies Jacobs as sponsor."
+      },
+      {
+        "text": "Warner introduced it with Grassley as a Senate bill.",
+        "explanation": "H.R. 10189 is a House bill introduced by Jacobs."
+      },
+      {
+        "text": "Jacobs introduced it with Moran and Whitesides as original cosponsors.",
+        "explanation": "The official record identifies that House coalition for a Defense Department reporting program."
+      },
+      {
+        "text": "Obernolte introduced it with Lieu as the sole original cosponsor.",
+        "explanation": "That pair is associated with other AI efforts; it is not this bill’s original coalition."
+      }
+    ],
+    "correct": 2,
+    "hint": "Distinguish the Defense-specific reporting proposal from the Commerce reporting bill.",
+    "takeaway": "Related policy mechanisms can produce different coalitions and committee referrals.",
+    "sources": [
+      {
+        "title": "H.R. 10189 introduced version, August 31, 2026",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr10189ih"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Jacobs",
+      "Moran",
+      "Whitesides",
+      "defense",
+      "incident reporting"
+    ]
+  },
+  {
+    "id": "m15",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "Markey, Lieu, Beyer and Buck introduced the Block Nuclear Launch by Autonomous AI Act in April 2023. Which position did that establish?",
+    "options": [
+      {
+        "text": "They sought to prohibit all military uses of AI.",
+        "explanation": "The proposal concerned nuclear-launch decisions, not every military AI application."
+      },
+      {
+        "text": "They sought a statutory safeguard for meaningful human control over nuclear launch.",
+        "explanation": "The coalition proposed restricting funds for automated nuclear launch without meaningful human control."
+      },
+      {
+        "text": "They sought to transfer nuclear launch authority to Congress.",
+        "explanation": "The proposal did not make Congress the operational launch authority."
+      },
+      {
+        "text": "They sought to license all commercial AI systems through DoD.",
+        "explanation": "The proposal addressed a nuclear command-and-control safeguard, not commercial licensing."
+      }
+    ],
+    "correct": 1,
+    "hint": "Focus on the decision the legislation was designed to protect.",
+    "takeaway": "A narrow military safeguard should not be coded as opposition to all defense AI.",
+    "sources": [
+      {
+        "title": "Markey, Lieu, Beyer and Buck introduce nuclear-launch safeguards, April 26, 2023",
+        "url": "https://www.markey.senate.gov/news/press-releases/markey-lieu-beyer-and-buck-introduce-bipartisan-legislation-to-prevent-ai-from-launching-a-nuclear-weapon"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Markey",
+      "Lieu",
+      "Beyer",
+      "nuclear",
+      "human control"
+    ]
+  },
+  {
+    "id": "m16",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "What did Moolenaar and Krishnamoorthi jointly urge in their January 30, 2025 letter concerning DeepSeek?",
+    "options": [
+      {
+        "text": "A ban on all domestic AI research until a treaty was signed.",
+        "explanation": "Their request addressed chip controls and security concerns, not a domestic research ban."
+      },
+      {
+        "text": "A law delegating export licensing decisions to DeepSeek.",
+        "explanation": "Their letter urged U.S. government review, not delegation to the company."
+      },
+      {
+        "text": "Removal of every semiconductor export restriction.",
+        "explanation": "Their request sought consideration of tighter controls, including diversion through third countries."
+      },
+      {
+        "text": "Review of tighter controls on relevant chips and measures against diversion through third countries.",
+        "explanation": "That reflects their letter’s requested executive-branch action."
+      }
+    ],
+    "correct": 3,
+    "hint": "The mechanism concerns access to computing hardware and enforcement of export restrictions.",
+    "takeaway": "A congressional letter can reveal a policy position while seeking action by the executive branch.",
+    "sources": [
+      {
+        "title": "Moolenaar and Krishnamoorthi call for tighter chip controls, January 30, 2025",
+        "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-krishnamoorthi-call-for-tightening-export-controls-on-chips-critical-to-china-s-ai-platform-deepseek-and-other-measures-to-address-its-risks-to-americans-data-and-security"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Moolenaar",
+      "Krishnamoorthi",
+      "export controls",
+      "oversight"
+    ]
+  },
+  {
+    "id": "m17",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Who announced the AI Data Center Moratorium Act together on March 25, 2026?",
+    "options": [
+      {
+        "text": "Bernie Sanders and Alexandria Ocasio-Cortez",
+        "explanation": "Their joint announcement advocated a federal moratorium on AI data centers."
+      },
+      {
+        "text": "Ted Cruz and Amy Klobuchar",
+        "explanation": "They led TAKE IT DOWN, not this announcement."
+      },
+      {
+        "text": "Jay Obernolte and Don Beyer",
+        "explanation": "They co-led CREATE AI in 2025, not this announcement."
+      },
+      {
+        "text": "Maria Cantwell and Marsha Blackburn",
+        "explanation": "They worked to remove a different moratorium concerning state AI laws."
+      }
+    ],
+    "correct": 0,
+    "hint": "Do not confuse a moratorium on data centers with a moratorium on state regulation.",
+    "takeaway": "Two proposals called a moratorium may restrict entirely different things.",
+    "sources": [
+      {
+        "title": "Sanders and Ocasio-Cortez announce AI Data Center Moratorium Act, March 25, 2026",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Sanders",
+      "Ocasio-Cortez",
+      "data centers"
+    ]
+  },
+  {
+    "id": "m18",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "The Cantwell–Young Future of AI Innovation effort advanced in committee in July 2024. Which approach best matches that proposal?",
+    "options": [
+      {
+        "text": "Criminalizing every use of generative AI in private business.",
+        "explanation": "The committee description concerned research, testing and standards, not a blanket criminal prohibition."
+      },
+      {
+        "text": "Licensing AI companies through a new nuclear regulatory agency.",
+        "explanation": "That was not the institutional approach described in this proposal."
+      },
+      {
+        "text": "Supporting NIST-based voluntary standards and public-private AI testing infrastructure.",
+        "explanation": "The proposal sought to authorize the AI Safety Institute and develop testbeds and partnerships."
+      },
+      {
+        "text": "Replacing all federal AI research with state-only programs.",
+        "explanation": "The proposal would strengthen federal research and standards capacity."
+      }
+    ],
+    "correct": 2,
+    "hint": "Look for the distinction between evaluation capacity and a general licensing regime.",
+    "takeaway": "Compare legislators’ preferred mechanisms, not just their statements about innovation and safety.",
+    "sources": [
+      {
+        "title": "Senate Commerce account of Future of AI Innovation Act, July 31, 2024",
+        "url": "https://www.commerce.senate.gov/press/dem/release/commerce-committee-passes-bipartisan-bill-to-ensure-u-s-leads-global-ai-innovation/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Cantwell",
+      "Young",
+      "NIST",
+      "evaluations"
+    ]
+  },
+  {
+    "id": "m19",
+    "category": "people",
+    "difficulty": 1,
+    "prompt": "Which Senate pair led the November 2023 introduction of the AI Research, Innovation, and Accountability Act?",
+    "options": [
+      {
+        "text": "Chuck Grassley and Brian Schatz",
+        "explanation": "They participated in whistleblower legislation; this proposal was led by Thune and Klobuchar."
+      },
+      {
+        "text": "John Thune and Amy Klobuchar",
+        "explanation": "They led Commerce Committee colleagues in introducing the AI accountability and innovation proposal."
+      },
+      {
+        "text": "Bernie Sanders and Elizabeth Warren",
+        "explanation": "They were not the lead pair named in this introduction announcement."
+      },
+      {
+        "text": "Richard Blumenthal and Josh Hawley",
+        "explanation": "Their September 2023 initiative was a separate AI legislative framework."
+      }
+    ],
+    "correct": 1,
+    "hint": "The pair combined a South Dakota Republican and a Minnesota Democrat.",
+    "takeaway": "Distinct bipartisan coalitions proposed different architectures for AI accountability.",
+    "sources": [
+      {
+        "title": "Thune and Klobuchar introduce AI accountability bill, November 15, 2023",
+        "url": "https://www.thune.senate.gov/news/press-releases/thune-klobuchar-lead-commerce-committee-colleagues-in-introducing-bipartisan-ai-bill-to-boost-innovation-and-strengthen-accountability/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Thune",
+      "Klobuchar",
+      "accountability"
+    ]
+  },
+  {
+    "id": "m20",
+    "category": "people",
+    "difficulty": 2,
+    "prompt": "Obernolte and Beyer introduced the CREATE AI Act of 2025. Which objective best matches their proposal?",
+    "options": [
+      {
+        "text": "Giving one private lab exclusive access to federal AI datasets.",
+        "explanation": "The proposal sought broader access, not an exclusive entitlement for one lab."
+      },
+      {
+        "text": "Requiring every AI researcher to work for the federal government.",
+        "explanation": "The resource was intended for a broad research community, not only federal employees."
+      },
+      {
+        "text": "Banning universities from using commercial cloud services.",
+        "explanation": "The proposal expanded access to research infrastructure, including cloud resources."
+      },
+      {
+        "text": "Broadening access to AI research resources through the NAIRR.",
+        "explanation": "Their proposal would establish shared resources for researchers, students, nonprofits and other users."
+      }
+    ],
+    "correct": 3,
+    "hint": "The acronym concerns a national research resource rather than a new model regulator.",
+    "takeaway": "Congressional AI policy also addresses who has access to the tools needed to conduct research.",
+    "sources": [
+      {
+        "title": "Obernolte and Beyer introduce CREATE AI Act, March 31, 2025",
+        "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=6456"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Obernolte",
+      "Beyer",
+      "NAIRR",
+      "research"
+    ]
+  }
+]

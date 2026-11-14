@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "l01",
+    "category": "enacted",
+    "difficulty": 1,
+    "prompt": "Which harm does the enacted TAKE IT DOWN Act directly address?",
+    "options": [
+      {
+        "text": "Nonconsensual intimate imagery, including qualifying AI-generated forgeries",
+        "explanation": "The law covers specified nonconsensual intimate depictions, including digital forgeries; it also establishes platform notice-and-removal duties."
+      },
+      {
+        "text": "All misleading political statements generated with AI",
+        "explanation": "The law does not establish a general prohibition on misleading political speech."
+      },
+      {
+        "text": "Every copyrighted work used to train a generative model",
+        "explanation": "Its operative provisions address intimate imagery, not a general training-data copyright regime."
+      },
+      {
+        "text": "Any inaccurate answer produced by a commercial chatbot",
+        "explanation": "An inaccurate chatbot answer alone is outside this law’s targeted subject matter."
+      }
+    ],
+    "correct": 0,
+    "hint": "Read the law’s subject matter before treating it as a general AI statute.",
+    "takeaway": "A law addressing an AI-enabled harm may cover both synthetic and authentic material.",
+    "sources": [
+      {
+        "title": "TAKE IT DOWN Act — enacted Public Law 119-12",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "TAKE IT DOWN",
+      "synthetic media",
+      "scope"
+    ]
+  },
+  {
+    "id": "l02",
+    "category": "enacted",
+    "difficulty": 2,
+    "prompt": "Under §3 of the TAKE IT DOWN Act, a covered platform receives a valid removal request for qualifying nonconsensual intimate imagery. What is its deadline?",
+    "options": [
+      {
+        "text": "By the platform’s next annual compliance review",
+        "explanation": "Annual review is not the removal timetable in §3."
+      },
+      {
+        "text": "As soon as possible, and no later than 48 hours after receipt",
+        "explanation": "Section 3 sets an outer limit of 48 hours after a valid request and also requires reasonable efforts to find and remove known identical copies."
+      },
+      {
+        "text": "Within 48 hours after a court declares the image unlawful",
+        "explanation": "The statutory process does not make a prior court ruling the trigger for this deadline."
+      },
+      {
+        "text": "Within seven days after the original image was uploaded",
+        "explanation": "The law uses receipt of a valid request, not upload date, and specifies a shorter outer limit."
+      }
+    ],
+    "correct": 1,
+    "hint": "Distinguish the date content appears from the date a valid notice arrives.",
+    "takeaway": "Reporting and removal clocks depend on a precise statutory trigger.",
+    "sources": [
+      {
+        "title": "TAKE IT DOWN Act — enacted Public Law 119-12",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "TAKE IT DOWN",
+      "deadlines",
+      "implementation"
+    ]
+  },
+  {
+    "id": "l03",
+    "category": "enacted",
+    "difficulty": 1,
+    "prompt": "Which federal agency enforces the TAKE IT DOWN Act’s platform notice-and-removal obligations?",
+    "options": [
+      {
+        "text": "The National Institute of Standards and Technology",
+        "explanation": "NIST’s standards work does not make it the enforcer of this Act’s platform duties."
+      },
+      {
+        "text": "The Federal Election Commission",
+        "explanation": "These obligations concern intimate imagery, not federal campaign-finance enforcement."
+      },
+      {
+        "text": "The Federal Trade Commission",
+        "explanation": "Section 3 assigns enforcement of the platform obligations to the FTC, using the Federal Trade Commission Act’s enforcement framework."
+      },
+      {
+        "text": "The Federal Communications Commission",
+        "explanation": "The Act amends communications law, but assigns this platform-enforcement function to the FTC."
+      }
+    ],
+    "correct": 2,
+    "hint": "The criminal prohibitions and the platform obligations have different enforcement structures.",
+    "takeaway": "Identify the enforcement provision, not just the law’s title or the code it amends.",
+    "sources": [
+      {
+        "title": "TAKE IT DOWN Act — enacted Public Law 119-12",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "TAKE IT DOWN",
+      "FTC",
+      "enforcement"
+    ]
+  },
+  {
+    "id": "l04",
+    "category": "enacted",
+    "difficulty": 2,
+    "prompt": "The TAKE IT DOWN Act became law on May 19, 2025. What did §3’s one-year deadline govern?",
+    "options": [
+      {
+        "text": "When the President had to decide whether to sign the bill",
+        "explanation": "Presidential approval had already occurred on the enactment date."
+      },
+      {
+        "text": "When all provisions of the law automatically expired",
+        "explanation": "The one-year period is an implementation deadline, not a sunset for the law."
+      },
+      {
+        "text": "When the Senate had to vote again to activate the law",
+        "explanation": "Section 3 did not require a second Senate passage vote."
+      },
+      {
+        "text": "When covered platforms had to establish a notice-and-removal process",
+        "explanation": "The statute allowed up to one year after enactment to establish the process; this is distinct from the 48-hour response to a valid removal request."
+      }
+    ],
+    "correct": 3,
+    "hint": "Separate becoming law from the timetable Congress gives regulated entities.",
+    "takeaway": "An enactment date and an implementation deadline answer different questions.",
+    "sources": [
+      {
+        "title": "TAKE IT DOWN Act — enacted Public Law 119-12",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "TAKE IT DOWN",
+      "effective dates",
+      "implementation"
+    ]
+  },
+  {
+    "id": "l05",
+    "category": "enacted",
+    "difficulty": 2,
+    "prompt": "FY2026 NDAA §1513 directs the Defense Secretary to implement AI security requirements for covered contractors. Which route does the enacted text specify?",
+    "options": [
+      {
+        "text": "Amending the Defense Federal Acquisition Regulation Supplement, or taking similar action",
+        "explanation": "Section 1513(b) connects the security framework to requirements for covered entities through DFARS changes or comparable action."
+      },
+      {
+        "text": "Requiring every AI developer to obtain an FTC deployment license",
+        "explanation": "The section uses defense acquisition relationships; it is not a universal FTC licensing system."
+      },
+      {
+        "text": "Leaving implementation entirely to a voluntary industry pledge",
+        "explanation": "The section directs the Secretary to require covered entities to implement the practices under the framework."
+      },
+      {
+        "text": "Delegating federal procurement requirements to state legislatures",
+        "explanation": "The duty belongs to the Secretary of Defense, not to state legislatures."
+      }
+    ],
+    "correct": 0,
+    "hint": "The section’s title links physical and cyber security to procurement.",
+    "takeaway": "Congress can impose AI safeguards through government purchasing relationships.",
+    "sources": [
+      {
+        "title": "FY2026 NDAA — enacted Public Law 119-60, §§1512–1513",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "NDAA",
+      "1513",
+      "procurement",
+      "DFARS"
+    ]
+  },
+  {
+    "id": "l06",
+    "category": "enacted",
+    "difficulty": 3,
+    "prompt": "Which description best matches the scope of covered AI technology in FY2026 NDAA §1513?",
+    "options": [
+      {
+        "text": "Only classified models trained entirely on government-owned data",
+        "explanation": "Neither classification nor exclusively government-owned training data defines the covered category."
+      },
+      {
+        "text": "Defense-acquired AI systems and lifecycle components, including weights and development data",
+        "explanation": "Section 1513(f) includes systems acquired by DoD and associated components such as source code, weights, development data, and trustworthiness-evaluation software."
+      },
+      {
+        "text": "Only finished hardware that contains a physical AI accelerator",
+        "explanation": "The definition extends beyond hardware to software, data, and other lifecycle components."
+      },
+      {
+        "text": "Every commercial AI model, regardless of any defense relationship",
+        "explanation": "The section’s definition is tied to acquisition by DoD or an element of DoD."
+      }
+    ],
+    "correct": 1,
+    "hint": "Look beyond the deployed model to the development and deployment lifecycle.",
+    "takeaway": "A security requirement’s reach depends on its definitions of technology and covered entities.",
+    "sources": [
+      {
+        "title": "FY2026 NDAA — enacted Public Law 119-60, §§1512–1513",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "NDAA",
+      "1513",
+      "model weights",
+      "scope"
+    ]
+  },
+  {
+    "id": "l07",
+    "category": "enacted",
+    "difficulty": 2,
+    "prompt": "A contractor argues that FY2026 NDAA §1513 requires identical security controls for every covered AI system. Which principle in the law challenges that reading?",
+    "options": [
+      {
+        "text": "All security decisions are reserved to the contractor",
+        "explanation": "The Secretary develops the framework and implements requirements for covered entities."
+      },
+      {
+        "text": "Public availability automatically exempts the entire contractor",
+        "explanation": "The section does not create that blanket exemption for the contractor."
+      },
+      {
+        "text": "Security should be calibrated to relevant national-security and foreign-policy risks",
+        "explanation": "The framework must be risk-based, and the requirements should be tailored to the technologies and their development, deployment, storage, or hosting roles."
+      },
+      {
+        "text": "Security requirements apply only after a successful theft",
+        "explanation": "The framework is preventive and does not wait for theft before requirements can apply."
+      }
+    ],
+    "correct": 2,
+    "hint": "The text describes both proportional security and tailoring by task.",
+    "takeaway": "Risk-based regulation does not mean either uniform controls or no controls.",
+    "sources": [
+      {
+        "title": "FY2026 NDAA — enacted Public Law 119-60, §§1512–1513",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "NDAA",
+      "1513",
+      "risk-based security"
+    ]
+  },
+  {
+    "id": "l08",
+    "category": "enacted",
+    "difficulty": 3,
+    "prompt": "A briefing says: “FY2026 NDAA §1513 required an implementation update within 180 days, so all its contractor controls were necessarily operational by then.” What is the best correction?",
+    "options": [
+      {
+        "text": "The deadline itself automatically converted the framework into final regulations",
+        "explanation": "The reporting deadline does not itself enact the implementing acquisition rules."
+      },
+      {
+        "text": "The deadline shows Congress had already appropriated all needed resources",
+        "explanation": "A status-report requirement is not proof that all implementation funding has been supplied."
+      },
+      {
+        "text": "The deadline means the security framework expired after 180 days",
+        "explanation": "The section describes a reporting deadline, not a 180-day sunset."
+      },
+      {
+        "text": "The deadline was for a status update; implementation must be checked separately",
+        "explanation": "Section 1513(e) requires an update on implementation, while subsection (d) calls for a plan with milestones, resources, and effectiveness metrics. A report deadline does not prove completion."
+      }
+    ],
+    "correct": 3,
+    "hint": "Ask what the statutory verb requires the Secretary to deliver.",
+    "takeaway": "Oversight deadlines are evidence of legal duties, not evidence that agencies fulfilled them.",
+    "sources": [
+      {
+        "title": "FY2026 NDAA — enacted Public Law 119-60, §§1512–1513",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "NDAA",
+      "1513",
+      "oversight",
+      "implementation"
+    ]
+  },
+  {
+    "id": "l09",
+    "category": "enacted",
+    "difficulty": 2,
+    "prompt": "Which concern is explicitly within the AI cybersecurity policy required by FY2026 NDAA §1512?",
+    "options": [
+      {
+        "text": "Threats such as prompt injection and model extraction across the system lifecycle",
+        "explanation": "Section 1512 lists AI-specific attacks and calls for lifecycle security, governance, testing, auditing, monitoring, and workforce preparation."
+      },
+      {
+        "text": "Testing only before acquisition, without monitoring during use",
+        "explanation": "The policy must address lifecycle security and includes auditing and monitoring."
+      },
+      {
+        "text": "Conventional network attacks, with model-specific threats excluded",
+        "explanation": "The text specifically includes model-oriented threats such as extraction, tampering, and jailbreaks."
+      },
+      {
+        "text": "Security only for models developed by foreign companies",
+        "explanation": "The policy applies across relevant DoD AI and machine-learning systems, not only foreign-developed models."
+      }
+    ],
+    "correct": 0,
+    "hint": "The law names attacks on models and on the ways people interact with them.",
+    "takeaway": "AI security provisions can address both technical attacks and institutional governance.",
+    "sources": [
+      {
+        "title": "FY2026 NDAA — enacted Public Law 119-60, §§1512–1513",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "NDAA",
+      "1512",
+      "cybersecurity"
+    ]
+  },
+  {
+    "id": "l10",
+    "category": "enacted",
+    "difficulty": 1,
+    "prompt": "FY2025 NDAA §6504 places the Artificial Intelligence Security Center within which institution?",
+    "options": [
+      {
+        "text": "DoD’s Chief Digital and Artificial Intelligence Office",
+        "explanation": "CDAO has important defense AI responsibilities, but §6504 places this center in NSA’s Cybersecurity Collaboration Center."
+      },
+      {
+        "text": "The NSA’s Cybersecurity Collaboration Center",
+        "explanation": "Section 6504 directs the NSA Director to establish the center there and assigns functions including counter-AI guidance and secure adoption practices."
+      },
+      {
+        "text": "NIST’s Information Technology Laboratory",
+        "explanation": "NIST has AI standards functions, but §6504 places this center at NSA."
+      },
+      {
+        "text": "The Cybersecurity and Infrastructure Security Agency",
+        "explanation": "CISA is relevant to cybersecurity, but it is not the host institution specified in §6504."
+      }
+    ],
+    "correct": 1,
+    "hint": "The provision focuses on national security systems and the defense industrial base.",
+    "takeaway": "This identifies the center’s statutory home; it does not claim that AI security work began only when the law passed.",
+    "sources": [
+      {
+        "title": "FY2025 NDAA — enacted Public Law 118-159, §6504",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "NDAA",
+      "NSA",
+      "AI Security Center"
+    ]
+  },
+  {
+    "id": "l11",
+    "category": "pending",
+    "difficulty": 1,
+    "prompt": "Under the introduced text of the AI Incident Reporting Act, H.R. 9477 (119th Congress), covered developers would submit required reports to whom?",
+    "options": [
+      {
+        "text": "Each state attorney general individually",
+        "explanation": "The introduced bill specifies reports to the Commerce Secretary rather than separate filings with every state attorney general."
+      },
+      {
+        "text": "The Director of National Intelligence",
+        "explanation": "The bill does not assign receipt of covered-developer reports to the DNI."
+      },
+      {
+        "text": "The Secretary of Commerce",
+        "explanation": "H.R. 9477 defines the Secretary as the Secretary of Commerce and assigns the reporting regime to that official."
+      },
+      {
+        "text": "The Cybersecurity and Infrastructure Security Agency",
+        "explanation": "CISA has relevant cybersecurity functions, but the bill specifies the Commerce Secretary as the reporting recipient."
+      }
+    ],
+    "correct": 2,
+    "hint": "Identify the recipient in the bill’s definitions and reporting requirement.",
+    "takeaway": "Incident-reporting proposals differ in who receives reports and what they may do with them.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9477 — introduced June 25, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9477ih/html/BILLS-119hr9477ih.htm"
+      },
+      {
+        "title": "Official action history — 119th Congress HR 9477",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9477.xml"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "incident reporting",
+      "Commerce",
+      "H.R. 9477"
+    ]
+  },
+  {
+    "id": "l12",
+    "category": "pending",
+    "difficulty": 2,
+    "prompt": "H.R. 9477’s introduced reporting rule uses a seven-day outer limit, subject to expedited reporting for imminent or ongoing serious risk. What starts the ordinary clock?",
+    "options": [
+      {
+        "text": "A court finds the developer liable for the incident",
+        "explanation": "The bill does not require a judicial liability finding before reporting."
+      },
+      {
+        "text": "The incident first appears in a news article",
+        "explanation": "Publicity is not the statutory trigger; internal knowledge or reasonable belief can precede it."
+      },
+      {
+        "text": "The developer finishes every step of its investigation",
+        "explanation": "Waiting for a completed investigation would conflict with the initial-report and supplemental-report structure."
+      },
+      {
+        "text": "The developer knows or reasonably believes reportable activity has occurred",
+        "explanation": "Section 2(b) ties the clock to knowledge or reasonable belief about reportable activity, and §2(c) separately addresses expedited reporting."
+      }
+    ],
+    "correct": 3,
+    "hint": "The bill distinguishes initial reporting from later supplemental information.",
+    "takeaway": "The trigger for a reporting clock can matter as much as the number of days.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9477 — introduced June 25, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9477ih/html/BILLS-119hr9477ih.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "incident reporting",
+      "deadlines",
+      "H.R. 9477"
+    ]
+  },
+  {
+    "id": "l13",
+    "category": "pending",
+    "difficulty": 3,
+    "prompt": "Under introduced H.R. 9477, a serious listed type of harm is avoided only because an unrelated third party intervenes, not because the developer’s safeguards work. How does the bill treat this kind of near miss?",
+    "options": [
+      {
+        "text": "It can be reportable if the bill’s serious-risk and likelihood conditions are met",
+        "explanation": "Section 2(b)(2)(F) includes qualifying near misses prevented only by circumstances unrelated to the developer’s safeguards."
+      },
+      {
+        "text": "It is excluded whenever no actual injury occurred",
+        "explanation": "The near-miss provision expressly reaches certain serious risks even when harm was prevented."
+      },
+      {
+        "text": "It is reportable only after the developer admits negligence",
+        "explanation": "An admission of negligence is not the statutory reporting condition."
+      },
+      {
+        "text": "It is excluded whenever the intervention prevents deployment",
+        "explanation": "Prevention alone does not remove a qualifying near miss from the reporting category."
+      }
+    ],
+    "correct": 0,
+    "hint": "Check whether the bill is limited to realized harm.",
+    "takeaway": "A reporting regime can seek warning signals before harm occurs.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9477 — introduced June 25, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9477ih/html/BILLS-119hr9477ih.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "incident reporting",
+      "near misses",
+      "H.R. 9477"
+    ]
+  },
+  {
+    "id": "l14",
+    "category": "pending",
+    "difficulty": 3,
+    "prompt": "H.R. 9477’s introduced text excludes a narrow category of evaluator-induced loss-of-control behavior. Which example fits that exclusion?",
+    "options": [
+      {
+        "text": "Any shutdown resistance if the developer plans to fix it",
+        "explanation": "A plan to fix behavior is not the exclusion set out in the text."
+      },
+      {
+        "text": "Behavior elicited only by a designed evaluation, outside production, that does not indicate analogous deployment behavior",
+        "explanation": "Section 2(b)(2)(A) makes all these qualifications relevant to the evaluation exclusion."
+      },
+      {
+        "text": "Any behavior a developer labels as a test, even in production",
+        "explanation": "Merely calling activity a test does not meet the listed conditions."
+      },
+      {
+        "text": "Any attempted model-weight theft discovered during testing",
+        "explanation": "The narrow evaluation exclusion concerns the behavior category in subparagraph (A); it is not a blanket exemption for every reporting category."
+      }
+    ],
+    "correct": 1,
+    "hint": "The exclusion has several conditions; “it happened during testing” is insufficient.",
+    "takeaway": "Exceptions should be read within the precise reporting category they modify.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9477 — introduced June 25, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9477ih/html/BILLS-119hr9477ih.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "incident reporting",
+      "evaluations",
+      "H.R. 9477"
+    ]
+  },
+  {
+    "id": "l15",
+    "category": "pending",
+    "difficulty": 2,
+    "prompt": "Under introduced H.R. 9925, the FRONTIER Act, what would a large frontier developer’s annual compliance audit examine?",
+    "options": [
+      {
+        "text": "Whether every model output is guaranteed to be accurate",
+        "explanation": "The compliance audit is not an absolute guarantee about every output."
+      },
+      {
+        "text": "Whether all training data are publicly downloadable",
+        "explanation": "Section 4(c) does not make universal public availability of training data the audit’s compliance standard."
+      },
+      {
+        "text": "Compliance with the developer’s required frontier AI framework",
+        "explanation": "Section 4(c) requires an independent third party to audit compliance with the framework, including material deviations and internal controls."
+      },
+      {
+        "text": "Whether the model has obtained a general federal deployment license",
+        "explanation": "The §4(c) audit examines framework compliance; it is not a general deployment-license determination."
+      }
+    ],
+    "correct": 2,
+    "hint": "Separate auditing adherence to a risk framework from guaranteeing an outcome.",
+    "takeaway": "The object of an audit determines what an audit result can establish.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9925 — introduced July 23, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9925ih/html/BILLS-119hr9925ih.htm"
+      },
+      {
+        "title": "Official action history — 119th Congress HR 9925",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9925.xml"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "FRONTIER",
+      "audits",
+      "H.R. 9925"
+    ]
+  },
+  {
+    "id": "l16",
+    "category": "pending",
+    "difficulty": 3,
+    "prompt": "Which reading best describes introduced FRONTIER Act §9’s approach to state law?",
+    "options": [
+      {
+        "text": "A blanket prohibition on all state laws that mention AI",
+        "explanation": "The express covered areas and savings provisions make that description too broad."
+      },
+      {
+        "text": "Complete preservation of every state developer-reporting requirement",
+        "explanation": "The defined covered areas include frontier-AI incident reporting and restrict new substantive state obligations on developers there."
+      },
+      {
+        "text": "Preemption only of state-government procurement rules",
+        "explanation": "The text expressly preserves state-government procurement or use requirements rather than making them its sole preempted category."
+      },
+      {
+        "text": "Preemption of specified developer obligations, with express areas of state authority preserved",
+        "explanation": "Section 9 defines covered subject areas and includes savings provisions for matters such as generally applicable laws, protections for minors, and state-government procurement."
+      }
+    ],
+    "correct": 3,
+    "hint": "Read the preemption clause together with the rule of construction.",
+    "takeaway": "Two proposals described as “preemption” can preserve very different state powers.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9925 — introduced July 23, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9925ih/html/BILLS-119hr9925ih.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "FRONTIER",
+      "preemption",
+      "H.R. 9925"
+    ]
+  },
+  {
+    "id": "l17",
+    "category": "pending",
+    "difficulty": 2,
+    "prompt": "Introduced FRONTIER Act §4 requires large frontier developers to publish a risk framework. What else would they have to do with it?",
+    "options": [
+      {
+        "text": "Implement and comply with it, including governance and security practices",
+        "explanation": "Section 4(a) combines publication with implementation and compliance, including risk assessments, model-weight security, incident response, and internal governance."
+      },
+      {
+        "text": "Publish it once, with no obligation to follow its contents",
+        "explanation": "The operative verbs expressly include implementation and compliance."
+      },
+      {
+        "text": "Submit it only to regulators instead of publishing it",
+        "explanation": "The framework is generally required to be published, not only submitted privately to regulators."
+      },
+      {
+        "text": "Keep it confidential from the public in every circumstance",
+        "explanation": "The framework is generally required to be clearly published on a publicly available website."
+      }
+    ],
+    "correct": 0,
+    "hint": "Look for the verbs attached to the framework obligation.",
+    "takeaway": "A transparency requirement may also create a duty to follow the disclosed practices.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9925 — introduced July 23, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9925ih/html/BILLS-119hr9925ih.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "FRONTIER",
+      "risk frameworks",
+      "H.R. 9925"
+    ]
+  },
+  {
+    "id": "l18",
+    "category": "pending",
+    "difficulty": 2,
+    "prompt": "Introduced S. 5061, the Secure Artificial Intelligence Development Act of 2026, would require frontier-model providers to give what kind of access before market introduction?",
+    "options": [
+      {
+        "text": "Voluntary access to NIST after the first commercial sale",
+        "explanation": "Section 3(c) specifies mandatory access to the AI Security Center before market introduction."
+      },
+      {
+        "text": "Access to NSA’s AI Security Center at least 21 calendar days beforehand",
+        "explanation": "Section 3(c) requires pre-release access, including weights and materials needed to operate the model, before introduction into interstate or foreign commerce."
+      },
+      {
+        "text": "Public access to all model weights at least 21 days beforehand",
+        "explanation": "The recipient is the AI Security Center; the text does not require public release of all weights through this provision."
+      },
+      {
+        "text": "Access only after a documented national-security incident",
+        "explanation": "The requirement is tied to market introduction and is intended to enable testing beforehand."
+      }
+    ],
+    "correct": 1,
+    "hint": "This proposal’s testing mechanism uses a secure federal institution.",
+    "takeaway": "Mandatory model access and public release of model weights are different policy choices.",
+    "sources": [
+      {
+        "title": "119th Congress S. 5061 — introduced July 21, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5061is/html/BILLS-119s5061is.htm"
+      },
+      {
+        "title": "Official action history — 119th Congress S 5061",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s5061.xml"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "Secure AI Development",
+      "pre-release testing",
+      "NSA",
+      "S. 5061"
+    ]
+  },
+  {
+    "id": "l19",
+    "category": "pending",
+    "difficulty": 3,
+    "prompt": "Compare introduced H.R. 9477 with §4 of introduced S. 5061. What is an important difference in their incident-information mechanisms?",
+    "options": [
+      {
+        "text": "S. 5061 §4 mandates developer reports; H.R. 9477 uses voluntary submissions",
+        "explanation": "That reverses the mechanisms in these provisions."
+      },
+      {
+        "text": "Both require every submitted report to be published unredacted",
+        "explanation": "Both texts contain protections for sensitive information; neither establishes that blanket publication requirement."
+      },
+      {
+        "text": "H.R. 9477 mandates covered-developer reports; S. 5061 §4 establishes voluntary submissions to NIST",
+        "explanation": "H.R. 9477 creates a reporting duty for covered developers. S. 5061 §4 uses voluntary sharing, while other sections of that bill contain separate mandatory duties."
+      },
+      {
+        "text": "Both rely entirely on voluntary developer submissions",
+        "explanation": "That overlooks the mandatory reporting language in H.R. 9477."
+      }
+    ],
+    "correct": 2,
+    "hint": "Do not assume every provision of a bill uses the same mandatory or voluntary design.",
+    "takeaway": "Compare the specific mechanisms, not just titles containing “security” or “reporting.”",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 9477 — introduced June 25, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9477ih/html/BILLS-119hr9477ih.htm"
+      },
+      {
+        "title": "119th Congress S. 5061 — introduced July 21, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5061is/html/BILLS-119s5061is.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "incident reporting",
+      "NIST",
+      "comparisons",
+      "S. 5061"
+    ]
+  },
+  {
+    "id": "l20",
+    "category": "pending",
+    "difficulty": 1,
+    "prompt": "What is the central policy mechanism in introduced H.R. 3460, the AI Whistleblower Protection Act?",
+    "options": [
+      {
+        "text": "A general duty for every developer to report all vulnerabilities",
+        "explanation": "The bill’s central mechanism protects qualifying whistleblower conduct against retaliation rather than imposing a universal developer reporting duty."
+      },
+      {
+        "text": "A liability shield for every product sold by an AI employer",
+        "explanation": "Whistleblower protection is not a general product-liability immunity for employers."
+      },
+      {
+        "text": "A replacement of agency investigations with private arbitration",
+        "explanation": "The bill provides complaint and enforcement routes rather than replacing public investigation with private arbitration."
+      },
+      {
+        "text": "Protection against retaliation for specified lawful reports and assistance",
+        "explanation": "The bill prohibits covered retaliation for qualifying reports about AI vulnerabilities or violations and participation in related investigations."
+      }
+    ],
+    "correct": 3,
+    "hint": "Focus on the relationship between the person raising a concern and the employer.",
+    "takeaway": "Congress can improve visibility into AI risks by protecting the people who report them.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 3460 — introduced May 15, 2025",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3460ih/html/BILLS-119hr3460ih.htm"
+      },
+      {
+        "title": "Official action history — 119th Congress HR 3460",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3460.xml"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "whistleblowers",
+      "H.R. 3460"
+    ]
+  },
+  {
+    "id": "l21",
+    "category": "pending",
+    "difficulty": 2,
+    "prompt": "An analyst summarizes introduced H.R. 3460 as protecting only people currently on a company’s payroll. What does its definition of a covered individual add?",
+    "options": [
+      {
+        "text": "Former employees and current or former independent contractors",
+        "explanation": "Section 2(6) includes former employees and both current and former independent contractors."
+      },
+      {
+        "text": "Current employees, while excluding all former workers",
+        "explanation": "The definition expressly includes former employees and former independent contractors."
+      },
+      {
+        "text": "Employees and former employees, while excluding all contractors",
+        "explanation": "Independent contractors and former independent contractors are included in the definition."
+      },
+      {
+        "text": "Only people employed directly by the federal government",
+        "explanation": "The bill’s employer and commerce definitions are not confined to federal employment."
+      }
+    ],
+    "correct": 0,
+    "hint": "Definitions can extend protection beyond the most obvious employment relationship.",
+    "takeaway": "Who is protected is a separate question from what disclosures are protected.",
+    "sources": [
+      {
+        "title": "119th Congress H.R. 3460 — introduced May 15, 2025",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3460ih/html/BILLS-119hr3460ih.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "whistleblowers",
+      "scope",
+      "H.R. 3460"
+    ]
+  },
+  {
+    "id": "l22",
+    "category": "pending",
+    "difficulty": 3,
+    "prompt": "Which comparison correctly distinguishes enacted FY2026 NDAA §1513 from introduced FRONTIER Act H.R. 9925?",
+    "options": [
+      {
+        "text": "FRONTIER addresses only state purchasing; §1513 imposes a nationwide model license",
+        "explanation": "Neither text has the scope or mechanism described here."
+      },
+      {
+        "text": "§1513 uses defense acquisition ties; FRONTIER proposes duties for defined frontier developers",
+        "explanation": "Section 1513 covers defense-acquired systems and relevant contractual entities. FRONTIER uses its own model and developer definitions for a broader proposed framework."
+      },
+      {
+        "text": "Both are enacted laws imposing the same developer obligations",
+        "explanation": "The NDAA provision is enacted; the cited FRONTIER text is a proposal, and the scopes differ."
+      },
+      {
+        "text": "Both reach all commercial developers, but use different enforcement agencies",
+        "explanation": "Section 1513’s defense-acquisition and contractual scope prevents this description from fitting both."
+      }
+    ],
+    "correct": 1,
+    "hint": "Identify both the legislative status and the relationship that brings an entity within scope.",
+    "takeaway": "Government procurement rules and economy-wide developer regulation are distinct policy tools.",
+    "sources": [
+      {
+        "title": "FY2026 NDAA — enacted Public Law 119-60, §§1512–1513",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+      },
+      {
+        "title": "119th Congress H.R. 9925 — introduced July 23, 2026",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr9925ih/html/BILLS-119hr9925ih.htm"
+      },
+      {
+        "title": "Official action history — 119th Congress HR 9925",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9925.xml"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "procurement",
+      "FRONTIER",
+      "NDAA",
+      "comparisons"
+    ]
+  },
+  {
+    "id": "l23",
+    "category": "history",
+    "difficulty": 2,
+    "prompt": "In Senate roll call 363 on July 1, 2025, 99 senators voted for Blackburn amendment 2814. What action were they approving?",
+    "options": [
+      {
+        "text": "Approving the AI moratorium exactly as originally proposed",
+        "explanation": "The amendment removed the section rather than approving it unchanged."
+      },
+      {
+        "text": "Passing the entire reconciliation bill in its final form",
+        "explanation": "The recorded question was on amendment 2814, not final passage of the full bill."
+      },
+      {
+        "text": "Striking the AI-related section from the pending reconciliation substitute",
+        "explanation": "The roll call was on an amendment to strike the section, not on final passage of a standalone AI bill."
+      },
+      {
+        "text": "Enacting a standalone federal AI licensing law",
+        "explanation": "The recorded question concerned an amendment within the reconciliation debate."
+      }
+    ],
+    "correct": 2,
+    "hint": "The vote’s “statement of purpose” matters more than a headline’s shorthand.",
+    "takeaway": "Read the question actually put to the chamber before interpreting a vote.",
+    "sources": [
+      {
+        "title": "Senate roll call 363 — July 1, 2025, Blackburn amendment 2814",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.htm"
+      },
+      {
+        "title": "Congressional Record — amendment 2814 and AI moratorium debate",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-06-30/html/CREC-2025-06-30-pt1-PgS4037-6.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "preemption",
+      "reconciliation",
+      "amendments",
+      "2025"
+    ]
+  },
+  {
+    "id": "l24",
+    "category": "history",
+    "difficulty": 3,
+    "prompt": "A senator voted “yea” on the July 1, 2025 amendment removing the AI moratorium section. Which conclusion is directly supported by that vote alone?",
+    "options": [
+      {
+        "text": "The senator opposes every possible form of federal AI preemption",
+        "explanation": "A vote on this specific text does not prove opposition to all future or narrower preemption proposals."
+      },
+      {
+        "text": "The senator endorsed every provision in the final reconciliation law",
+        "explanation": "An amendment vote is distinct from final passage and does not establish support for every component."
+      },
+      {
+        "text": "The senator supports mandatory licensing of all frontier models",
+        "explanation": "The amendment vote did not decide a universal model-licensing question."
+      },
+      {
+        "text": "The senator supported removing that section at that stage",
+        "explanation": "The vote establishes a position on that amendment. It does not establish a permanent position on every possible federal preemption proposal."
+      }
+    ],
+    "correct": 3,
+    "hint": "Limit the inference to the text and procedural stage being voted on.",
+    "takeaway": "Specific votes are useful evidence; broad ideological labels require more.",
+    "sources": [
+      {
+        "title": "Senate roll call 363 — July 1, 2025, Blackburn amendment 2814",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "preemption",
+      "evidence",
+      "legislator positions"
+    ]
+  },
+  {
+    "id": "l25",
+    "category": "history",
+    "difficulty": 2,
+    "prompt": "S. 3312, the AI Research, Innovation, and Accountability Act, reached the Senate calendar in December 2024 but did not become law in the 118th Congress. What happened to that bill when the Congress ended?",
+    "options": [
+      {
+        "text": "It expired; a new Congress would need a newly introduced bill",
+        "explanation": "Unenacted bills do not carry over to a new Congress. Related ideas can still return in a new bill or another legislative vehicle."
+      },
+      {
+        "text": "It automatically became the first bill on the next Senate calendar",
+        "explanation": "Placement on a calendar does not carry an unenacted bill into the next Congress."
+      },
+      {
+        "text": "It became law because committee reporting was the final requirement",
+        "explanation": "Reporting and calendar placement are not enactment."
+      },
+      {
+        "text": "Its subject became permanently ineligible for future legislation",
+        "explanation": "Expiration ends that bill’s journey, not Congress’s ability to legislate on the subject."
+      }
+    ],
+    "correct": 0,
+    "hint": "Distinguish the end of a two-year Congress from an ordinary recess.",
+    "takeaway": "A dead bill can still have an influential policy afterlife.",
+    "sources": [
+      {
+        "title": "Official action history — 118th Congress S 3312",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/118/s/BILLSTATUS-118s3312.xml"
+      },
+      {
+        "title": "Library of Congress — what happens to unenacted bills at the end of a Congress",
+        "url": "https://ask.loc.gov/law/faq/334496"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "S. 3312",
+      "expired bills",
+      "118th Congress"
+    ]
+  },
+  {
+    "id": "l26",
+    "category": "history",
+    "difficulty": 3,
+    "prompt": "In the December 2024 reported version of S. 3312, critical-impact AI organizations would submit risk-assessment reports to Commerce. What limit did §206(a)(4) place on that review?",
+    "options": [
+      {
+        "text": "The Secretary had to publish the developer’s entire confidential report",
+        "explanation": "The paragraph limits prohibiting public availability; it does not impose publication of an entire confidential report."
+      },
+      {
+        "text": "The Secretary could not prohibit public availability based on that report review",
+        "explanation": "That paragraph limits prohibiting public availability based on reviewing the submitted report. It does not eliminate separate enforcement powers: §208(c) addresses intentional violations."
+      },
+      {
+        "text": "The Secretary had to prohibit every system until Congress approved it",
+        "explanation": "The cited paragraph provides the opposite limit on prohibiting availability based on that review."
+      },
+      {
+        "text": "The Secretary could review only reports submitted after an actual injury",
+        "explanation": "The section requires predeployment and periodic assessments; it is not limited to reports after injury."
+      }
+    ],
+    "correct": 1,
+    "hint": "Look for an express limitation after the report-review provisions.",
+    "takeaway": "Assessment, reporting, certification, and licensing should not be treated as interchangeable.",
+    "sources": [
+      {
+        "title": "118th Congress S. 3312 — reported December 18, 2024",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3312rs/html/BILLS-118s3312rs.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "S. 3312",
+      "risk assessment",
+      "agency authority"
+    ]
+  },
+  {
+    "id": "l27",
+    "category": "history",
+    "difficulty": 2,
+    "prompt": "The introduced 118th-Congress H.R. 9720 was called the AI Incident Reporting and Security Enhancement Act. What did it propose on incident reporting?",
+    "options": [
+      {
+        "text": "Automatic criminal penalties for every unreported AI error",
+        "explanation": "The bill does not establish that universal criminal reporting regime."
+      },
+      {
+        "text": "A new NIST power to halt deployment of any reported model",
+        "explanation": "Section 2(c) expressly limits the inference of new NIST enforcement authority."
+      },
+      {
+        "text": "A NIST-led process to assess and support voluntary incident tracking",
+        "explanation": "Section 2 calls for a multistakeholder process, guidance, and assessment of voluntary tracking; it also limits any inference of new NIST enforcement authority."
+      },
+      {
+        "text": "Mandatory seven-day reports from all covered frontier developers",
+        "explanation": "That describes a different design; H.R. 9720’s introduced text centers on voluntary tracking."
+      }
+    ],
+    "correct": 2,
+    "hint": "A title containing “reporting” does not tell you whether reporting is mandatory.",
+    "takeaway": "Read the operative language before grouping similarly named proposals together.",
+    "sources": [
+      {
+        "title": "118th Congress H.R. 9720 — introduced September 20, 2024",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9720ih/html/BILLS-118hr9720ih.htm"
+      },
+      {
+        "title": "Official action history — 118th Congress HR 9720",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/118/hr/BILLSTATUS-118hr9720.xml"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "H.R. 9720",
+      "voluntary reporting",
+      "118th Congress"
+    ]
+  },
+  {
+    "id": "l28",
+    "category": "history",
+    "difficulty": 2,
+    "prompt": "The 118th-Congress TAKE IT DOWN bill, S. 4569, passed the Senate in 2024 but did not become law in that Congress. Which description best captures its fate?",
+    "options": [
+      {
+        "text": "Senate passage alone made it binding national law in 2024",
+        "explanation": "One chamber’s approval alone did not enact this bill."
+      },
+      {
+        "text": "It remained pending indefinitely until a President signed that same bill",
+        "explanation": "Unenacted bills expire at the end of their Congress rather than remaining pending indefinitely."
+      },
+      {
+        "text": "Its failure permanently barred Congress from regulating the same harm",
+        "explanation": "A later Congress could and did legislate on the subject."
+      },
+      {
+        "text": "That bill expired despite Senate passage; the policy returned in a later Congress",
+        "explanation": "The Senate-passed text and final action record show progress without enactment as S. 4569. A later vehicle, S. 146, became Public Law 119-12."
+      }
+    ],
+    "correct": 3,
+    "hint": "Check both chamber action and the Congress in which the bill was introduced.",
+    "takeaway": "A proposal can fail procedurally and still become the basis of a later law.",
+    "sources": [
+      {
+        "title": "118th Congress S. 4569 — Senate-passed text",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4569es/html/BILLS-118s4569es.htm"
+      },
+      {
+        "title": "Official action history — 118th Congress S 4569",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/118/s/BILLSTATUS-118s4569.xml"
+      },
+      {
+        "title": "TAKE IT DOWN Act — enacted Public Law 119-12",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm"
+      },
+      {
+        "title": "Library of Congress — what happens to unenacted bills at the end of a Congress",
+        "url": "https://ask.loc.gov/law/faq/334496"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "TAKE IT DOWN",
+      "legislative lineage",
+      "expired bills"
+    ]
+  },
+  {
+    "id": "l29",
+    "category": "history",
+    "difficulty": 2,
+    "prompt": "You are linking the TAKE IT DOWN Act’s legislative history across Congresses. Which pair correctly distinguishes a predecessor from the enacted vehicle?",
+    "options": [
+      {
+        "text": "S. 4569 in the 118th Congress; S. 146 in the 119th Congress",
+        "explanation": "S. 4569 was the earlier Senate-passed bill. The enacted Public Law 119-12 identifies S. 146 as its bill vehicle."
+      },
+      {
+        "text": "S. 146 in the 118th Congress; S. 4569 in the 119th Congress",
+        "explanation": "This reverses the Congress-specific identities of these TAKE IT DOWN vehicles."
+      },
+      {
+        "text": "S. 4569 in both Congresses, because bill numbers carry over",
+        "explanation": "Bill identifiers are Congress-specific; a prior bill does not carry into the next Congress under its old identity."
+      },
+      {
+        "text": "Public Law 119-12 in the 118th Congress; S. 146 in the 119th",
+        "explanation": "The public-law identifier belongs to the 119th Congress, and a public law is not an earlier pending bill."
+      }
+    ],
+    "correct": 0,
+    "hint": "A bill number without its Congress is an incomplete identifier.",
+    "takeaway": "Track Congress, chamber, and number together, and connect related records without merging their identities.",
+    "sources": [
+      {
+        "title": "118th Congress S. 4569 — Senate-passed text",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4569es/html/BILLS-118s4569es.htm"
+      },
+      {
+        "title": "TAKE IT DOWN Act — enacted Public Law 119-12",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ12/html/PLAW-119publ12.htm"
+      },
+      {
+        "title": "Library of Congress — what happens to unenacted bills at the end of a Congress",
+        "url": "https://ask.loc.gov/law/faq/334496"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "TAKE IT DOWN",
+      "bill identifiers",
+      "legislative lineage"
+    ]
+  },
+  {
+    "id": "l30",
+    "category": "history",
+    "difficulty": 3,
+    "prompt": "H.R. 8070, the House’s FY2025 NDAA vehicle, did not itself become law. Yet the FY2025 NDAA was enacted as Public Law 118-159 through H.R. 5009. What should an analyst do before declaring an AI provision in H.R. 8070 “dead”?",
+    "options": [
+      {
+        "text": "Use the bill title alone to treat the two texts as identical",
+        "explanation": "Shared NDAA subject matter or titles do not prove identical operative text."
+      },
+      {
+        "text": "Compare the proposed provision with the final enacted text in H.R. 5009",
+        "explanation": "The legislative vehicle’s fate does not establish whether particular language survived. A provision-level comparison is needed."
+      },
+      {
+        "text": "Assume every provision died because H.R. 8070 was not signed",
+        "explanation": "A different vehicle can carry negotiated provisions into law."
+      },
+      {
+        "text": "Assume every House-passed provision survived without any change",
+        "explanation": "Negotiation and amendment can remove or alter provisions before enactment."
+      }
+    ],
+    "correct": 1,
+    "hint": "Separate the container—the bill—from the particular provision you are following.",
+    "takeaway": "A provision’s legislative history can cross bill numbers and versions.",
+    "sources": [
+      {
+        "title": "Official action history — 118th Congress HR 8070",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/118/hr/BILLSTATUS-118hr8070.xml"
+      },
+      {
+        "title": "FY2025 NDAA — enacted Public Law 118-159, §6504",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "NDAA",
+      "legislative vehicles",
+      "provision tracking"
+    ]
+  }
+]

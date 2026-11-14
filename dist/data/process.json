@@ -1,0 +1,1148 @@
+[
+  {
+    "id": "p01",
+    "category": "process",
+    "difficulty": 1,
+    "prompt": "A Senate committee votes to order an AI security bill reported. Which statement best describes that action?",
+    "options": [
+      {
+        "text": "The committee has recommended the bill for Senate consideration.",
+        "explanation": "Committee approval advances the measure toward the chamber; it is not Senate passage."
+      },
+      {
+        "text": "The full Senate has approved the bill.",
+        "explanation": "The committee is a subset of senators; chamber passage is a separate action."
+      },
+      {
+        "text": "The House must now vote on the bill.",
+        "explanation": "The Senate has not yet passed and sent this bill to the House."
+      },
+      {
+        "text": "The bill now creates binding duties for developers.",
+        "explanation": "Committee action alone does not enact a federal law."
+      }
+    ],
+    "correct": 0,
+    "hint": "Think about which body actually took the vote.",
+    "takeaway": "Always identify the decision-making body before interpreting a legislative milestone.",
+    "sources": [
+      {
+        "title": "CRS: Introduction to the Legislative Process",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42843/R42843.21.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "markup",
+      "status"
+    ]
+  },
+  {
+    "id": "p02",
+    "category": "process",
+    "difficulty": 1,
+    "prompt": "A committee hears testimony from AI company executives about model theft. What can you conclude from the hearing alone?",
+    "options": [
+      {
+        "text": "The executives’ recommendations will become statutory text.",
+        "explanation": "Testimony can influence drafting, but Congress is not required to adopt it."
+      },
+      {
+        "text": "The committee is gathering information; passage of a bill is not established.",
+        "explanation": "A hearing can inform oversight or legislation without producing a markup or vote."
+      },
+      {
+        "text": "A model-security bill has passed the committee.",
+        "explanation": "Hearing testimony is distinct from the committee action used to report legislation."
+      },
+      {
+        "text": "A model-security bill must already have been introduced.",
+        "explanation": "A legislative hearing may occur before a bill is introduced."
+      }
+    ],
+    "correct": 1,
+    "hint": "A hearing and a markup serve different functions.",
+    "takeaway": "A hearing signals attention; check later actions to learn whether legislation advanced.",
+    "sources": [
+      {
+        "title": "CRS: Types of Committee Hearings",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/98-317/98-317.19.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "hearing",
+      "oversight"
+    ]
+  },
+  {
+    "id": "p03",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "All 100 Senate seats are filled. On an ordinary AI bill subject to the usual legislative cloture rule, 58 senators vote for cloture. What is the result?",
+    "options": [
+      {
+        "text": "The bill is defeated on final passage.",
+        "explanation": "This vote concerns limiting consideration, not final passage of the bill."
+      },
+      {
+        "text": "The bill passes because more than half support cloture.",
+        "explanation": "Voting to limit consideration does not enact or pass the underlying bill."
+      },
+      {
+        "text": "Cloture is not invoked; the usual threshold is 60.",
+        "explanation": "Three-fifths of senators duly chosen and sworn is 60 in this scenario."
+      },
+      {
+        "text": "Cloture is invoked because 58 is a simple majority.",
+        "explanation": "The ordinary legislative cloture threshold is higher than a simple majority."
+      }
+    ],
+    "correct": 2,
+    "hint": "This is a vote on limiting consideration, not on final passage.",
+    "takeaway": "Distinguish the vote required to reach a decision from the vote on the decision itself.",
+    "sources": [
+      {
+        "title": "Senate: About Filibusters and Cloture",
+        "url": "https://www.senate.gov/about/powers-procedures/filibusters-cloture.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "cloture",
+      "filibuster"
+    ]
+  },
+  {
+    "id": "p04",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "Debate has ended and the Senate votes on final passage of an ordinary AI bill. No special supermajority requirement applies. With a quorum present, what is generally required?",
+    "options": [
+      {
+        "text": "Three-fifths of all senators duly chosen and sworn.",
+        "explanation": "That is the usual legislative cloture threshold, not the ordinary final-passage threshold."
+      },
+      {
+        "text": "Two-thirds of all senators duly chosen and sworn.",
+        "explanation": "Ordinary legislation does not carry this general final-passage requirement."
+      },
+      {
+        "text": "Consent from every senator present.",
+        "explanation": "Unanimous consent is a separate procedural route; it is not required for this vote."
+      },
+      {
+        "text": "A simple majority of senators voting.",
+        "explanation": "Ordinary final passage generally requires a simple majority once procedural hurdles are cleared. If senators divide equally, the Vice President may cast a tie-breaking vote."
+      }
+    ],
+    "correct": 3,
+    "hint": "The prompt says debate has ended and no special threshold applies.",
+    "takeaway": "The shorthand “bills need 60 votes” can hide the distinction between cloture and passage.",
+    "sources": [
+      {
+        "title": "Senate: About Voting",
+        "url": "https://www.senate.gov/about/powers-procedures/voting.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "cloture",
+      "voting"
+    ]
+  },
+  {
+    "id": "p05",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "The Senate passes an AI bill by unanimous consent, with no roll-call vote. Which description is supported by that record?",
+    "options": [
+      {
+        "text": "No senator objected to the request; there is no individual roll-call tally.",
+        "explanation": "Unanimous consent operates through the absence of objection, not a recorded vote by every senator."
+      },
+      {
+        "text": "Every senator individually cast a recorded yea vote.",
+        "explanation": "Unanimous consent is not a roll call recording each senator’s vote."
+      },
+      {
+        "text": "The bill failed because no vote total was recorded.",
+        "explanation": "A measure can pass by unanimous consent without a numerical roll-call result."
+      },
+      {
+        "text": "Each senator endorsed every provision in a public statement.",
+        "explanation": "The procedure does not establish individual public statements or motives."
+      }
+    ],
+    "correct": 0,
+    "hint": "“No objection” and “100 recorded yeas” describe different evidence.",
+    "takeaway": "Use the actual voting method when describing a legislator’s record.",
+    "sources": [
+      {
+        "title": "Senate: About Voting",
+        "url": "https://www.senate.gov/about/powers-procedures/voting.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "unanimous-consent",
+      "evidence"
+    ]
+  },
+  {
+    "id": "p06",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "Why might supporters try to include a qualifying AI-related tax provision in a budget reconciliation bill?",
+    "options": [
+      {
+        "text": "Reconciliation makes the President’s signature legally unnecessary in every case.",
+        "explanation": "Reconciliation legislation follows the constitutional enactment process."
+      },
+      {
+        "text": "Senate debate on reconciliation is limited, avoiding the usual need for cloture.",
+        "explanation": "Reconciliation offers expedited Senate consideration for eligible budgetary legislation."
+      },
+      {
+        "text": "Reconciliation bills can become law without House approval.",
+        "explanation": "Both chambers must still approve legislation that is presented to the President."
+      },
+      {
+        "text": "Reconciliation automatically permits any AI policy provision.",
+        "explanation": "Special restrictions, including the Byrd rule, limit what reconciliation may contain."
+      }
+    ],
+    "correct": 1,
+    "hint": "Focus on Senate debate procedures, while remembering that content restrictions remain.",
+    "takeaway": "Reconciliation changes the procedural route; it does not remove all legislative requirements.",
+    "sources": [
+      {
+        "title": "CRS: The Reconciliation Process — Frequently Asked Questions",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48444/R48444.3.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "reconciliation",
+      "budget"
+    ]
+  },
+  {
+    "id": "p07",
+    "category": "process",
+    "difficulty": 3,
+    "prompt": "An AI licensing proposal includes a small fee. Its sponsor argues that any revenue effect guarantees eligibility for reconciliation. What is the best response?",
+    "options": [
+      {
+        "text": "The Byrd rule prohibits every provision involving artificial intelligence.",
+        "explanation": "The tests concern the provision’s budgetary and procedural characteristics, not the AI label."
+      },
+      {
+        "text": "Only the House applies the Byrd rule to reconciliation provisions.",
+        "explanation": "The Byrd rule constrains reconciliation consideration in the Senate."
+      },
+      {
+        "text": "A merely incidental budget effect can still leave the provision vulnerable under the Byrd rule.",
+        "explanation": "The Byrd rule examines more than whether a provision changes revenue at all."
+      },
+      {
+        "text": "Any fee makes all associated regulatory provisions automatically eligible.",
+        "explanation": "A revenue connection does not by itself satisfy every Byrd-rule test."
+      }
+    ],
+    "correct": 2,
+    "hint": "The relationship between the budget effect and the policy change matters.",
+    "takeaway": "Adding a fee is not a universal way to fit regulatory policy into reconciliation.",
+    "sources": [
+      {
+        "title": "Senate Budget Committee: The Byrd Rule Explained",
+        "url": "https://www.budget.senate.gov/imo/media/doc/Reconciliation%20BB062315%5B1%5D.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "byrd-rule",
+      "reconciliation"
+    ]
+  },
+  {
+    "id": "p08",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "A House AI bill is considered under suspension of the rules. Which combination describes that procedure?",
+    "options": [
+      {
+        "text": "Unlimited debate, unrestricted amendments, and a simple-majority vote.",
+        "explanation": "These are not the procedures governing House suspension motions."
+      },
+      {
+        "text": "No debate, automatic passage, and approval only by committee chairs.",
+        "explanation": "The full House still acts; suspension does not delegate passage to committee chairs."
+      },
+      {
+        "text": "A 60-vote threshold, cloture petitions, and Senate-style debate.",
+        "explanation": "Suspension is a House procedure; these features confuse it with Senate practice."
+      },
+      {
+        "text": "Limited debate, no floor amendments, and two-thirds support among members voting.",
+        "explanation": "Suspension streamlines consideration but requires a two-thirds vote, with a quorum present."
+      }
+    ],
+    "correct": 3,
+    "hint": "The faster route trades amendment opportunities for a higher voting threshold.",
+    "takeaway": "A bipartisan House bill may use a different floor route from a contentious major package.",
+    "sources": [
+      {
+        "title": "House: Legislative process and floor consideration",
+        "url": "https://foxx.house.gov/legislation/what-does-congress-do.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "house",
+      "suspension"
+    ]
+  },
+  {
+    "id": "p09",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "The House adopts a structured rule for an AI bill. Your preferred amendment is not among those made in order. Under that rule, what should you expect?",
+    "options": [
+      {
+        "text": "The amendment is outside the set authorized for consideration.",
+        "explanation": "Structured rules specify which amendments may be considered; relevance alone is insufficient."
+      },
+      {
+        "text": "Any member may offer it because it concerns the bill’s subject.",
+        "explanation": "A structured rule can restrict even germane amendments to a specified list."
+      },
+      {
+        "text": "The amendment is automatically included in the bill without a vote.",
+        "explanation": "Omission from the permitted list does not insert the amendment into legislative text."
+      },
+      {
+        "text": "The Senate must consider the amendment before the House can proceed.",
+        "explanation": "The House rule governs its own floor consideration, not the Senate’s agenda."
+      }
+    ],
+    "correct": 0,
+    "hint": "Look at the special rule and its accompanying list of permitted amendments.",
+    "takeaway": "Rules Committee decisions can shape which policy alternatives receive a House vote.",
+    "sources": [
+      {
+        "title": "House Rules Committee: Special Rule Types",
+        "url": "https://rules.house.gov/about/special-rule-types"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "house",
+      "amendments",
+      "rules"
+    ]
+  },
+  {
+    "id": "p10",
+    "category": "process",
+    "difficulty": 1,
+    "prompt": "The House passes an AI bill. The Senate passes the same bill number but changes its reporting deadline. What must happen before presentation to the President?",
+    "options": [
+      {
+        "text": "The two deadlines both take effect and agencies choose one.",
+        "explanation": "Neither conflicting version becomes law merely because each chamber passed a version."
+      },
+      {
+        "text": "Both chambers must agree to the same final text.",
+        "explanation": "A difference in the deadline remains a legislative difference requiring resolution."
+      },
+      {
+        "text": "The Senate text automatically replaces the House text.",
+        "explanation": "The Senate cannot unilaterally establish the text approved by both chambers."
+      },
+      {
+        "text": "The President chooses which chamber’s deadline to sign.",
+        "explanation": "Congress must resolve the text before presenting the enrolled bill."
+      }
+    ],
+    "correct": 1,
+    "hint": "The constitutional requirement concerns the same measure in the same form.",
+    "takeaway": "Small textual differences matter just as much as large ones for bicameral agreement.",
+    "sources": [
+      {
+        "title": "House: Resolving Differences with the Senate",
+        "url": "https://www.house.gov/the-house-explained/the-legislative-process/to-the-senate"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "bicameralism",
+      "enactment"
+    ]
+  },
+  {
+    "id": "p11",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "The House and Senate disagree over an AI provision. Must they always convene a conference committee to resolve the difference?",
+    "options": [
+      {
+        "text": "No; a joint press release is enough to settle the legal text.",
+        "explanation": "Public agreement must still be translated into the necessary chamber actions."
+      },
+      {
+        "text": "Yes; the President must chair the conference committee.",
+        "explanation": "Conferences involve members of Congress, and a conference is not the only route."
+      },
+      {
+        "text": "No; they can also exchange amendments until both agree to the same text.",
+        "explanation": "Amendments between the chambers provide an alternative to a formal conference."
+      },
+      {
+        "text": "Yes; every disagreement requires a conference committee.",
+        "explanation": "Congress can reconcile its positions without creating a formal conference committee."
+      }
+    ],
+    "correct": 2,
+    "hint": "Consider the legislative “ping-pong” of amendments between chambers.",
+    "takeaway": "The familiar conference-committee diagram is only one path to final agreement.",
+    "sources": [
+      {
+        "title": "House: Resolving Differences with the Senate",
+        "url": "https://www.house.gov/the-house-explained/the-legislative-process/to-the-senate"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "conference",
+      "amendment-exchange"
+    ]
+  },
+  {
+    "id": "p12",
+    "category": "process",
+    "difficulty": 1,
+    "prompt": "An AI bill was introduced in the 118th Congress but was never enacted before that Congress ended. What is required to pursue it as a bill in the 119th Congress?",
+    "options": [
+      {
+        "text": "Resume it automatically at the same committee stage and bill number.",
+        "explanation": "A new Congress does not inherit pending bills as live legislation."
+      },
+      {
+        "text": "Ask the President to sign the expired introduced version.",
+        "explanation": "An introduced, unenacted bill is not ready for presidential signature."
+      },
+      {
+        "text": "Obtain only a staff certification that its wording is unchanged.",
+        "explanation": "Unchanged language does not remove the need for reintroduction and legislative action."
+      },
+      {
+        "text": "Reintroduce it and begin the legislative process under a new bill number.",
+        "explanation": "An unenacted bill does not carry over from one Congress to the next."
+      }
+    ],
+    "correct": 3,
+    "hint": "A Congress lasts two years; its pending bills do not continue indefinitely.",
+    "takeaway": "Track the Congress number as part of a bill’s identity.",
+    "sources": [
+      {
+        "title": "Library of Congress: What happens to a bill at the end of a Congress?",
+        "url": "https://ask.loc.gov/law/faq/334496"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "expiration",
+      "bill-identity"
+    ]
+  },
+  {
+    "id": "p13",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "It is November 2026, after the congressional election. A 119th-Congress AI bill has not been enacted or otherwise disposed of. Does the election alone make it expired?",
+    "options": [
+      {
+        "text": "No; the election does not itself end the sitting Congress.",
+        "explanation": "Expiration at the end of a Congress is different from election day."
+      },
+      {
+        "text": "Yes; every pending bill expires when polls close.",
+        "explanation": "The election does not terminate the current Congress’s pending legislation."
+      },
+      {
+        "text": "Yes; every bill automatically transfers to the next Congress as expired law.",
+        "explanation": "An unenacted bill is not a law and does not transfer automatically."
+      },
+      {
+        "text": "No; the bill remains pending across all future Congresses.",
+        "explanation": "Its life as a pending bill still ends when the Congress ends if it is not enacted."
+      }
+    ],
+    "correct": 0,
+    "hint": "Distinguish an election from the end of the two-year Congress.",
+    "takeaway": "Use the legislative calendar rather than election results to label a bill expired.",
+    "sources": [
+      {
+        "title": "Library of Congress: What happens to a bill at the end of a Congress?",
+        "url": "https://ask.loc.gov/law/faq/334496"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "lame-duck",
+      "expiration"
+    ]
+  },
+  {
+    "id": "p14",
+    "category": "process",
+    "difficulty": 3,
+    "prompt": "The House passes an H.R. bill and the Senate passes its identically worded S. companion. Is that enough, by itself, to send a bill to the President?",
+    "options": [
+      {
+        "text": "No; companion bills can never become law.",
+        "explanation": "One companion can become the common vehicle approved by both chambers."
+      },
+      {
+        "text": "No; both chambers must ultimately pass the same legislative vehicle.",
+        "explanation": "Identical companion text is not enough until both chambers act on one common vehicle."
+      },
+      {
+        "text": "Yes; matching text automatically merges the two bill numbers.",
+        "explanation": "Companion bills retain separate identities; there is no automatic merger."
+      },
+      {
+        "text": "Yes; whichever chamber voted last selects the final law number.",
+        "explanation": "The last vote does not substitute for both chambers passing the same measure."
+      }
+    ],
+    "correct": 1,
+    "hint": "Text and legislative vehicle are separate parts of the requirement.",
+    "takeaway": "Follow the vehicle that actually crosses chambers and becomes law.",
+    "sources": [
+      {
+        "title": "House Legislative Counsel: Understanding the Legislative Process",
+        "url": "https://legcounsel.house.gov/before-drafting/understanding-legislative-process"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "companion-bills",
+      "vehicles"
+    ]
+  },
+  {
+    "id": "p15",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "You open an AI bill’s official document and see the heading “An Act.” Is that heading alone enough to conclude the proposal is law?",
+    "options": [
+      {
+        "text": "Yes; publication by GovInfo gives any proposal legal effect.",
+        "explanation": "GovInfo publishes proposed bills as well as enacted laws."
+      },
+      {
+        "text": "No; Congress never uses that heading for enacted legislation.",
+        "explanation": "Enacted legislation also uses the heading, so it cannot distinguish status by itself."
+      },
+      {
+        "text": "No; a bill can be styled “An Act” after passing only one chamber.",
+        "explanation": "The heading can appear before enactment; check the action history and public-law record."
+      },
+      {
+        "text": "Yes; “An Act” always proves presidential signature.",
+        "explanation": "The document’s heading is not proof that constitutional enactment requirements were completed."
+      }
+    ],
+    "correct": 2,
+    "hint": "The title of the document is less informative than its version and enactment record.",
+    "takeaway": "Read status metadata and the final law, not just a document’s opening words.",
+    "sources": [
+      {
+        "title": "CRS: Understanding Federal Legislation",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46484/R46484.11.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "bill-text",
+      "enactment"
+    ]
+  },
+  {
+    "id": "p16",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "The Senate adopts an AI incident-reporting amendment to a larger bill that has not yet passed. What has happened?",
+    "options": [
+      {
+        "text": "The amendment independently became a public law.",
+        "explanation": "An amendment does not ordinarily become law independently of its legislative vehicle."
+      },
+      {
+        "text": "The House must automatically accept the amendment.",
+        "explanation": "Senate amendment adoption does not bind the House to the same language."
+      },
+      {
+        "text": "The President can now sign the amendment by itself.",
+        "explanation": "The measure must complete the required legislative steps before presentment."
+      },
+      {
+        "text": "The Senate changed the pending bill; the requirement is not yet federal law.",
+        "explanation": "Amendment adoption is one step in consideration of the underlying measure."
+      }
+    ],
+    "correct": 3,
+    "hint": "The amendment is attached to a legislative vehicle that is still moving.",
+    "takeaway": "A successful amendment vote is not the same thing as enactment of its policy.",
+    "sources": [
+      {
+        "title": "GovInfo: Congressional Bills and version codes",
+        "url": "https://www.govinfo.gov/help/bills"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "amendments",
+      "vehicles"
+    ]
+  },
+  {
+    "id": "p17",
+    "category": "process",
+    "difficulty": 2,
+    "prompt": "A new AI law is signed today but states that one reporting duty takes effect 180 days after enactment. Which date governs that duty?",
+    "options": [
+      {
+        "text": "The specified date 180 days after enactment.",
+        "explanation": "Congress can provide a later effective date for particular provisions."
+      },
+      {
+        "text": "Today, because all duties begin immediately upon signature.",
+        "explanation": "An express delayed effective date controls the provision’s timing."
+      },
+      {
+        "text": "The bill’s introduction date, because that starts the legislative record.",
+        "explanation": "Introduction does not create the legal duty or begin this statutory clock."
+      },
+      {
+        "text": "The next congressional election, regardless of the text.",
+        "explanation": "The election is not the trigger stated in this law."
+      }
+    ],
+    "correct": 0,
+    "hint": "Look for a provision-specific effective date rather than a single date for the whole act.",
+    "takeaway": "Enactment, effective dates, and implementation deadlines can be different milestones.",
+    "sources": [
+      {
+        "title": "CRS: Understanding Federal Legislation",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46484/R46484.11.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "effective-dates",
+      "implementation"
+    ]
+  },
+  {
+    "id": "p18",
+    "category": "process",
+    "difficulty": 3,
+    "prompt": "A hypothetical funding restriction applies only to money provided by a specified annual appropriations act. Which fact is essential before claiming it permanently bans an AI activity?",
+    "options": [
+      {
+        "text": "Whether the provision contains the phrase “artificial intelligence.”",
+        "explanation": "The technology label does not establish duration or which spending is restricted."
+      },
+      {
+        "text": "The enacted restriction’s scope and duration, including which funds it covers.",
+        "explanation": "A limitation on specified appropriated funds should not automatically be described as a permanent, universal ban."
+      },
+      {
+        "text": "Whether its sponsor calls it a permanent ban in a press release.",
+        "explanation": "A sponsor’s description cannot replace the enacted language governing scope and duration."
+      },
+      {
+        "text": "Whether the restriction has more than ten cosponsors.",
+        "explanation": "Cosponsor numbers do not determine the legal reach of an enacted funding limitation."
+      }
+    ],
+    "correct": 1,
+    "hint": "Appropriations are defined by purpose, amount, and duration.",
+    "takeaway": "Read funding restrictions precisely before turning them into broad policy claims.",
+    "sources": [
+      {
+        "title": "CRS: Appropriations Duration of Availability",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48087/R48087.1.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "appropriations",
+      "riders"
+    ]
+  },
+  {
+    "id": "p19",
+    "category": "power",
+    "difficulty": 1,
+    "prompt": "An AI proposal has been referred to a committee but receives no hearings or markup. Which official generally has the committee’s primary agenda-setting authority?",
+    "options": [
+      {
+        "text": "The bill’s lead sponsor, even if not a committee member.",
+        "explanation": "Sponsorship can help advocacy, but does not confer control of the committee’s agenda."
+      },
+      {
+        "text": "The ranking minority member, acting alone.",
+        "explanation": "The ranking member leads the minority; primary committee agenda-setting authority generally lies with the chair."
+      },
+      {
+        "text": "The committee chair.",
+        "explanation": "The chair generally decides which referred measures receive formal committee attention."
+      },
+      {
+        "text": "The chamber’s majority leader, rather than committee leadership.",
+        "explanation": "Floor leadership influences priorities, but the question concerns primary agenda-setting inside a committee."
+      }
+    ],
+    "correct": 2,
+    "hint": "Focus on the committee’s own leadership, not the proposal’s supporters.",
+    "takeaway": "Referral creates an opportunity for consideration, not a promise of action.",
+    "sources": [
+      {
+        "title": "CRS: Introduction to the Legislative Process",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42843/R42843.21.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "chairs",
+      "agenda"
+    ]
+  },
+  {
+    "id": "p20",
+    "category": "power",
+    "difficulty": 1,
+    "prompt": "A news report calls a senator the “ranking member” of a committee. What does that title usually mean?",
+    "options": [
+      {
+        "text": "The most senior majority-party member other than the chair.",
+        "explanation": "The title identifies the leading minority member, not a second-ranking majority member."
+      },
+      {
+        "text": "The committee’s longest-serving member, regardless of party.",
+        "explanation": "Seniority often matters, but the role is defined by leadership of the committee minority."
+      },
+      {
+        "text": "The minority leader of the entire chamber.",
+        "explanation": "The chamber’s party leader and a committee’s ranking member are different positions."
+      },
+      {
+        "text": "The committee’s highest-ranking minority-party member.",
+        "explanation": "The ranking member is the minority counterpart to the majority-party chair."
+      }
+    ],
+    "correct": 3,
+    "hint": "The role is defined relative to the majority and minority on the committee.",
+    "takeaway": "Committee leadership comes in majority and minority roles with different powers.",
+    "sources": [
+      {
+        "title": "Senate: Glossary",
+        "url": "https://www.senate.gov/glossary/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "ranking-members",
+      "committees"
+    ]
+  },
+  {
+    "id": "p21",
+    "category": "power",
+    "difficulty": 1,
+    "prompt": "A bipartisan AI caucus endorses a bill. What does that endorsement establish?",
+    "options": [
+      {
+        "text": "An informal member group supports it; endorsement is not committee passage.",
+        "explanation": "Caucuses can coordinate and advocate, but are distinct from legislative committees."
+      },
+      {
+        "text": "The bill has passed a standing committee by a recorded vote.",
+        "explanation": "A caucus endorsement is not a standing committee’s legislative action."
+      },
+      {
+        "text": "All members of the caucus are automatically listed as bill cosponsors.",
+        "explanation": "Joining a caucus and formally cosponsoring a bill are separate actions."
+      },
+      {
+        "text": "The endorsement legally binds each caucus member’s floor vote.",
+        "explanation": "An informal caucus endorsement is not a legal instruction controlling members’ votes."
+      }
+    ],
+    "correct": 0,
+    "hint": "An organization pursuing common legislative objectives is not necessarily a committee.",
+    "takeaway": "Caucus activity can build a coalition without changing the bill’s official status.",
+    "sources": [
+      {
+        "title": "House Administration: Congressional Member Organizations",
+        "url": "https://cha.house.gov/members-congressional-handbook"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "caucuses",
+      "coalitions"
+    ]
+  },
+  {
+    "id": "p22",
+    "category": "power",
+    "difficulty": 2,
+    "prompt": "In May 2025, the House AI Whistleblower Protection Act (H.R. 3460) was referred to Education and Workforce. What is the best lesson from this referral?",
+    "options": [
+      {
+        "text": "The referral means the committee had already approved the bill.",
+        "explanation": "Referral assigns a measure for consideration; it does not signify committee approval."
+      },
+      {
+        "text": "Committee jurisdiction follows the policy mechanism, including employment protections.",
+        "explanation": "The bill addresses employment discrimination against whistleblowers, not simply AI technology in isolation."
+      },
+      {
+        "text": "Every bill mentioning AI is referred to this committee.",
+        "explanation": "AI bills can address different policy areas and therefore different jurisdictions."
+      },
+      {
+        "text": "Only committees with “AI” in their names may handle AI legislation.",
+        "explanation": "Congress uses existing subject-matter jurisdictions; a dedicated AI committee is not required."
+      }
+    ],
+    "correct": 1,
+    "hint": "Ask what legal relationship the bill would regulate.",
+    "takeaway": "“AI policy” crosses employment, commerce, defense, intelligence, and other jurisdictions.",
+    "sources": [
+      {
+        "title": "GovInfo: H.R. 3460, introduced version, May 15, 2025",
+        "url": "https://www.govinfo.gov/app/details/BILLS-119hr3460ih"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "jurisdiction",
+      "whistleblowers"
+    ]
+  },
+  {
+    "id": "p23",
+    "category": "power",
+    "difficulty": 2,
+    "prompt": "An NDAA provision authorizes $50 million for an AI testing program but does not appropriate money. What should an implementation analyst check next?",
+    "options": [
+      {
+        "text": "Whether the committee report can substitute for enacted appropriations.",
+        "explanation": "Report language alone does not create the missing budget authority."
+      },
+      {
+        "text": "Whether the President can treat the authorization as an automatic appropriation.",
+        "explanation": "The distinction between authorization and budget authority remains after enactment."
+      },
+      {
+        "text": "Whether an appropriation or other available budget authority funds the program.",
+        "explanation": "Authorization of appropriations does not itself supply the budget authority needed for spending."
+      },
+      {
+        "text": "Whether the agency can spend the full $50 million solely because it was authorized.",
+        "explanation": "A funding authorization alone does not make that amount available to obligate."
+      }
+    ],
+    "correct": 2,
+    "hint": "The question distinguishes permission to establish policy from authority to spend money.",
+    "takeaway": "Follow both the authorizing legislation and the funding path.",
+    "sources": [
+      {
+        "title": "CRS: FY2025 NDAA — Overview of Funding Authorizations",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48527/R48527.3.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "ndaa",
+      "authorization",
+      "appropriations"
+    ]
+  },
+  {
+    "id": "p24",
+    "category": "power",
+    "difficulty": 3,
+    "prompt": "An appropriations committee report asks an agency to publish an AI evaluation framework. The direction is not incorporated into statutory text. Which assessment is most accurate?",
+    "options": [
+      {
+        "text": "It is automatically identical in legal force to an enacted statutory command.",
+        "explanation": "A report is not itself a statute; incorporation and other legal context can matter."
+      },
+      {
+        "text": "It has no relevance because agencies never respond to committee reports.",
+        "explanation": "Agencies often seek to comply because report language communicates congressional expectations."
+      },
+      {
+        "text": "It becomes binding whenever the committee chair repeats it in a speech.",
+        "explanation": "A public statement does not transform report language into statutory text."
+      },
+      {
+        "text": "It can exert significant oversight pressure but generally lacks the force of statutory text.",
+        "explanation": "Report directions matter politically and administratively, but are generally not binding in the same way as law."
+      }
+    ],
+    "correct": 3,
+    "hint": "Distinguish practical congressional influence from the legal source of a duty.",
+    "takeaway": "Separate enacted requirements from committee expectations when assessing implementation.",
+    "sources": [
+      {
+        "title": "CRS: Appropriations Report Language",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44124/R44124.10.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "report-language",
+      "oversight"
+    ]
+  },
+  {
+    "id": "p25",
+    "category": "power",
+    "difficulty": 1,
+    "prompt": "Congress has enacted an AI security law. An agency misses a required implementation deadline. Which activity is an example of congressional oversight?",
+    "options": [
+      {
+        "text": "Holding a hearing to examine the delay and agency implementation.",
+        "explanation": "Committees use oversight hearings to review how executive agencies administer legislation."
+      },
+      {
+        "text": "Treating the missed deadline as automatic repeal of the law.",
+        "explanation": "A missed deadline does not by itself establish that the law has been repealed."
+      },
+      {
+        "text": "Allowing a committee press release to replace the statute.",
+        "explanation": "A press release cannot amend the law governing implementation."
+      },
+      {
+        "text": "Requiring every oversight hearing to enact a new bill.",
+        "explanation": "Oversight can investigate implementation without producing new legislation."
+      }
+    ],
+    "correct": 0,
+    "hint": "Congress’s work does not end when a bill becomes law.",
+    "takeaway": "Oversight tests whether enacted policy is being carried out as intended.",
+    "sources": [
+      {
+        "title": "Senate: Committee hearings and oversight",
+        "url": "https://www.senate.gov/committees/committees_faq.htm"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "implementation",
+      "oversight"
+    ]
+  },
+  {
+    "id": "p26",
+    "category": "power",
+    "difficulty": 2,
+    "prompt": "CBO estimates the budgetary effects of an AI proposal. What should you infer about CBO’s position on whether Congress should enact it?",
+    "options": [
+      {
+        "text": "Publishing the estimate makes CBO a cosponsor.",
+        "explanation": "Congressional sponsorship and nonpartisan budget analysis are different roles."
+      },
+      {
+        "text": "The estimate is analysis, not a policy endorsement.",
+        "explanation": "CBO does not recommend which policies Congress should enact."
+      },
+      {
+        "text": "A positive spending estimate means CBO recommends passage.",
+        "explanation": "Estimated spending does not indicate an endorsement."
+      },
+      {
+        "text": "A deficit increase means CBO has formally vetoed the bill.",
+        "explanation": "CBO analyzes legislation; it does not have a veto over it."
+      }
+    ],
+    "correct": 1,
+    "hint": "A score describes expected effects; elected lawmakers make value judgments.",
+    "takeaway": "Use CBO to understand fiscal consequences without attributing a political recommendation.",
+    "sources": [
+      {
+        "title": "Congressional Budget Office: Processes",
+        "url": "https://www.cbo.gov/about/processes"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "cbo",
+      "budget-analysis"
+    ]
+  },
+  {
+    "id": "p27",
+    "category": "power",
+    "difficulty": 2,
+    "prompt": "A congressional committee wants an independent examination of whether agencies are implementing AI procurement safeguards effectively. Which congressional support agency is especially suited to that audit role?",
+    "options": [
+      {
+        "text": "The Office of Management and Budget (OMB).",
+        "explanation": "OMB is part of the executive branch, not a congressional support agency."
+      },
+      {
+        "text": "The National Institute of Standards and Technology (NIST).",
+        "explanation": "NIST is an executive-branch technical agency, not Congress’s audit institution."
+      },
+      {
+        "text": "The Government Accountability Office (GAO).",
+        "explanation": "GAO conducts evaluations and audits supporting congressional oversight of government performance."
+      },
+      {
+        "text": "The Congressional Budget Office (CBO).",
+        "explanation": "CBO specializes in budget and economic analysis rather than this implementation-audit role."
+      }
+    ],
+    "correct": 2,
+    "hint": "Look for Congress’s institution focused on government accountability and program performance.",
+    "takeaway": "Congress can use GAO investigations to test implementation claims.",
+    "sources": [
+      {
+        "title": "GAO: What GAO Does",
+        "url": "https://www.gao.gov/about/what-gao-does"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "gao",
+      "oversight"
+    ]
+  },
+  {
+    "id": "p28",
+    "category": "power",
+    "difficulty": 2,
+    "prompt": "An AI bill wins overwhelming support in committee. Why might it still receive no floor vote?",
+    "options": [
+      {
+        "text": "Committee approval automatically removes a bill from consideration.",
+        "explanation": "Reporting a bill normally advances it toward possible consideration; it does not defeat it."
+      },
+      {
+        "text": "Only the President may schedule congressional floor votes.",
+        "explanation": "Floor proceedings are controlled within Congress, not by presidential scheduling authority."
+      },
+      {
+        "text": "Every committee-reported bill must first win a national referendum.",
+        "explanation": "Federal bills do not require a national referendum before floor consideration."
+      },
+      {
+        "text": "Committee approval does not guarantee a place on the chamber’s floor agenda.",
+        "explanation": "Committee recommendations are important, but floor scheduling and chamber procedures remain separate hurdles."
+      }
+    ],
+    "correct": 3,
+    "hint": "Committee action and chamber agenda control occur at different institutional levels.",
+    "takeaway": "A strong committee vote is evidence of progress, not a guaranteed route to enactment.",
+    "sources": [
+      {
+        "title": "Senate: About the Committee System",
+        "url": "https://www.senate.gov/general/common/generic/about_committees.htm"
+      },
+      {
+        "title": "CRS: Introduction to the Legislative Process",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42843/R42843.21.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "leadership",
+      "agenda"
+    ]
+  },
+  {
+    "id": "p29",
+    "category": "power",
+    "difficulty": 1,
+    "prompt": "You want to discuss the substance of an AI bill with a representative’s office. Which staff role most commonly tracks legislation in an assigned policy portfolio?",
+    "options": [
+      {
+        "text": "A legislative assistant or aide covering that issue.",
+        "explanation": "Legislative assistants commonly follow assigned issues and prepare policy and hearing work for the member."
+      },
+      {
+        "text": "The communications director handling press coverage.",
+        "explanation": "Communications staff explain the member’s positions publicly, but are not ordinarily the assigned legislative portfolio staff."
+      },
+      {
+        "text": "The scheduler arranging the member’s meetings.",
+        "explanation": "A scheduler can arrange access; that role does not by itself identify the policy specialist."
+      },
+      {
+        "text": "The district caseworker handling individual agency problems.",
+        "explanation": "Constituent casework and legislative portfolio analysis are related but distinct office functions."
+      }
+    ],
+    "correct": 0,
+    "hint": "Ask which staffer covers the issue, because office titles and assignments can vary.",
+    "takeaway": "Policy expertise often sits with staff; verify each office’s actual portfolio assignments.",
+    "sources": [
+      {
+        "title": "House: Compensation and Diversity Study — staff responsibilities",
+        "url": "https://www.house.gov/sites/default/files/uploads/documents/2019_house_compdiversitystudy_finalreport_houseoverall.pdf"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "staff",
+      "engagement"
+    ]
+  },
+  {
+    "id": "p30",
+    "category": "power",
+    "difficulty": 2,
+    "prompt": "Congress agrees to a concurrent budget resolution containing fiscal targets. Has the resolution itself become a public law funding an AI program?",
+    "options": [
+      {
+        "text": "No; only the President may write congressional fiscal targets.",
+        "explanation": "Congress develops and agrees to its own budget resolution."
+      },
+      {
+        "text": "No; a budget resolution guides congressional budgeting and is not signed into law.",
+        "explanation": "Congress uses the resolution as a fiscal framework; spending legislation must supply the relevant authority."
+      },
+      {
+        "text": "Yes; every concurrent resolution becomes law without further steps.",
+        "explanation": "Concurrent resolutions are not presented to the President as public laws."
+      },
+      {
+        "text": "Yes; its fiscal targets automatically appropriate each agency’s funding.",
+        "explanation": "A budget framework is distinct from legislation providing budget authority."
+      }
+    ],
+    "correct": 1,
+    "hint": "Compare a congressional budget framework with an enacted appropriations measure.",
+    "takeaway": "A budget resolution, an authorization, and an appropriation perform different jobs.",
+    "sources": [
+      {
+        "title": "Senate Budget Committee: Committee History and Responsibilities",
+        "url": "https://www.budget.senate.gov/about/committee-history/"
+      }
+    ],
+    "asOf": "2026-11-13",
+    "tags": [
+      "budget-resolution",
+      "appropriations"
+    ]
+  }
+]

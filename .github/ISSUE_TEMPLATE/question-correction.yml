@@ -1,0 +1,37 @@
+name: Question or profile correction
+description: Report an inaccurate, outdated, ambiguous, or poorly explained item.
+title: "Content correction: "
+body:
+  - type: input
+    id: item
+    attributes:
+      label: Question or profile
+      description: Paste the question text, question ID, or member name so we can find it.
+      placeholder: "Question p01, or the full prompt"
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs correction?
+      description: Explain the error or ambiguity and any proposed wording.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting source URLs
+      description: Link the relevant official record, legislative text, action history, or dated statement. If you cannot locate one, say so.
+      placeholder: "https://www.congress.gov/..."
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Relevant date or bill version
+      description: When did the underlying fact change, or which text version supports the correction?
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: For a display problem, include your browser and device. Avoid attaching progress exports or other personal data.

@@ -1,0 +1,23 @@
+name: Feature or usability request
+description: Suggest an improvement to learning, accessibility, or quiz reuse.
+title: "Feature: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like to do?
+      description: Describe the learning or usability need.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: Describe the behavior you would find helpful.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Examples or context
+      description: Add relevant links, accessibility needs, or device/browser details. Do not include private information.

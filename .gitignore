@@ -1,0 +1,11 @@
+research/primary/
+research/tracker.json
+dist/qa-mobile.html
+*.tar.gz
+*.tgz
+.DS_Store
+dist/hillwise-source.zip
+.openai/
+.vercel/
+.env*
+!.env.example
